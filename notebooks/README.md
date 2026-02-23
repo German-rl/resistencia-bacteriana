@@ -1,0 +1,4 @@
+- quantify resistance prevalence by bacteria–antibiotic pair
+- identify multidrug resistance patterns
+- visualize resistance profiles
+- support antimicrobial stewardship insights
