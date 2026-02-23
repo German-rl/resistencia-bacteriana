@@ -1,0 +1,1533 @@
+﻿Microorganismo,ANTIMICROBIANO,R,I,S,X,Total general,Clasificacion_bacter
+Escherichia coli,Amikacina,36,18,1501,,1555,Negativo
+Escherichia coli,Amoxicilina-Clavulanato,136,240,464,,840,Negativo
+Escherichia coli,Ampicilina,1274,10,275,,1559,Negativo
+Escherichia coli,Ampicilina-Sulbactam,310,153,255,,718,Negativo
+Escherichia coli,Cefazolina,927,,6,623,1556,Negativo
+Escherichia coli,Cefepima,854,59,639,,1552,Negativo
+Escherichia coli,Cefoxitina,292,87,1179,,1558,Negativo
+Escherichia coli,Ceftazidima,849,16,692,,1557,Negativo
+Escherichia coli,Ceftriaxona,925,9,624,,1558,Negativo
+Escherichia coli,Cefuroxima,513,15,312,,840,Negativo
+Escherichia coli,Ciprofloxacino,1016,199,336,,1551,Negativo
+Escherichia coli,Colistina,49,,,670,719,Negativo
+Escherichia coli,Ertapenem,181,42,1319,,1542,Negativo
+Escherichia coli,Fosfomicina c/G6P,,,573,145,718,Negativo
+Escherichia coli,Gentamicina,532,21,1005,,1558,Negativo
+Escherichia coli,Imipenem,125,66,1362,,1553,Negativo
+Escherichia coli,Levofloxacino,969,,,586,1555,Negativo
+Escherichia coli,Meropenem,122,15,1409,,1546,Negativo
+Escherichia coli,Nitrofurantoína,152,42,646,,840,Negativo
+Escherichia coli,Norfloxacino,536,5,295,,836,Negativo
+Escherichia coli,Piperacilina-Tazobactam,180,160,1216,,1556,Negativo
+Escherichia coli,Tetraciclina,574,4,261,,839,Negativo
+Escherichia coli,Tigeciclina,22,22,468,203,715,Negativo
+Escherichia coli,Trimetoprim-Sulfametoxazol,908,,648,,1556,Negativo
+Total Escherichia coli,,11482,1183,15485,2227,30377,
+Klebsiella pneumoniae,Amikacina,7,1,490,,498,Negativo
+Klebsiella pneumoniae,Amoxicilina-Clavulanato,28,42,90,,160,Negativo
+Klebsiella pneumoniae,Ampicilina,498,,,,498,Negativo
+Klebsiella pneumoniae,Ampicilina-Sulbactam,143,48,148,,339,Negativo
+Klebsiella pneumoniae,Cefazolina,258,,2,239,499,Negativo
+Klebsiella pneumoniae,Cefepima,246,16,236,,498,Negativo
+Klebsiella pneumoniae,Cefoxitina,89,10,398,,497,Negativo
+Klebsiella pneumoniae,Ceftazidima,238,2,258,,498,Negativo
+Klebsiella pneumoniae,Ceftriaxona,260,2,235,,497,Negativo
+Klebsiella pneumoniae,Cefuroxima,89,3,68,,160,Negativo
+Klebsiella pneumoniae,Ciprofloxacino,257,39,203,,499,Negativo
+Klebsiella pneumoniae,Colistina,21,,,316,337,Negativo
+Klebsiella pneumoniae,Ertapenem,75,20,401,,496,Negativo
+Klebsiella pneumoniae,Gentamicina,182,5,311,,498,Negativo
+Klebsiella pneumoniae,Imipenem,44,26,427,,497,Negativo
+Klebsiella pneumoniae,Levofloxacino,165,,,334,499,Negativo
+Klebsiella pneumoniae,Meropenem,51,12,434,,497,Negativo
+Klebsiella pneumoniae,Nitrofurantoína,65,31,64,,160,Negativo
+Klebsiella pneumoniae,Norfloxacino,62,8,90,,160,Negativo
+Klebsiella pneumoniae,Piperacilina-Tazobactam,58,65,374,,497,Negativo
+Klebsiella pneumoniae,Tetraciclina,90,,70,,160,Negativo
+Klebsiella pneumoniae,Tigeciclina,26,40,222,50,338,Negativo
+Klebsiella pneumoniae,Trimetoprim-Sulfametoxazol,274,,224,,498,Negativo
+Total Klebsiella pneumoniae,,3226,370,4745,939,9280,
+Pseudomonas aeruginosa,Amikacina,70,6,147,,223,Negativo
+Pseudomonas aeruginosa,Amoxicilina-Clavulanato,70,,,,70,Negativo
+Pseudomonas aeruginosa,Ampicilina,224,,,,224,Negativo
+Pseudomonas aeruginosa,Ampicilina-Sulbactam,154,,,,154,Negativo
+Pseudomonas aeruginosa,Cefazolina,224,,,,224,Negativo
+Pseudomonas aeruginosa,Cefepima,91,26,106,,223,Negativo
+Pseudomonas aeruginosa,Cefoxitina,224,,,,224,Negativo
+Pseudomonas aeruginosa,Ceftazidima,93,10,120,,223,Negativo
+Pseudomonas aeruginosa,Ceftriaxona,224,,,,224,Negativo
+Pseudomonas aeruginosa,Cefuroxima,70,,,,70,Negativo
+Pseudomonas aeruginosa,Ciprofloxacino,125,14,83,,222,Negativo
+Pseudomonas aeruginosa,Colistina,16,,,138,154,Negativo
+Pseudomonas aeruginosa,Ertapenem,225,,,,225,Negativo
+Pseudomonas aeruginosa,Gentamicina,89,7,128,,224,Negativo
+Pseudomonas aeruginosa,Imipenem,119,15,88,,222,Negativo
+Pseudomonas aeruginosa,Levofloxacino,125,7,91,,223,Negativo
+Pseudomonas aeruginosa,Meropenem,111,13,97,,221,Negativo
+Pseudomonas aeruginosa,Nitrofurantoína,70,,,,70,Negativo
+Pseudomonas aeruginosa,Norfloxacino,49,3,18,,70,Negativo
+Pseudomonas aeruginosa,Piperacilina-Tazobactam,43,59,122,,224,Negativo
+Pseudomonas aeruginosa,Tetraciclina,70,,,,70,Negativo
+Pseudomonas aeruginosa,Tigeciclina,120,,,34,154,Negativo
+Pseudomonas aeruginosa,Trimetoprim-Sulfametoxazol,223,,,,223,Negativo
+Total Pseudomonas aeruginosa,,2829,160,1000,172,4161,
+Enterobacter cloacae,Amikacina,4,1,160,,165,Negativo
+Enterobacter cloacae,Amoxicilina-Clavulanato,48,,,,48,Negativo
+Enterobacter cloacae,Ampicilina,166,,,,166,Negativo
+Enterobacter cloacae,Ampicilina-Sulbactam,117,,,,117,Negativo
+Enterobacter cloacae,Cefazolina,165,,,,165,Negativo
+Enterobacter cloacae,Cefepima,49,31,85,,165,Negativo
+Enterobacter cloacae,Cefoxitina,165,,,,165,Negativo
+Enterobacter cloacae,Ceftazidima,54,10,102,,166,Negativo
+Enterobacter cloacae,Ceftriaxona,88,,78,,166,Negativo
+Enterobacter cloacae,Cefuroxima,29,2,17,,48,Negativo
+Enterobacter cloacae,Ciprofloxacino,64,30,68,,162,Negativo
+Enterobacter cloacae,Colistina,9,,,108,117,Negativo
+Enterobacter cloacae,Ertapenem,32,7,125,,164,Negativo
+Enterobacter cloacae,Gentamicina,53,1,111,,165,Negativo
+Enterobacter cloacae,Imipenem,18,11,136,,165,Negativo
+Enterobacter cloacae,Levofloxacino,55,,,110,165,Negativo
+Enterobacter cloacae,Meropenem,14,5,144,,163,Negativo
+Enterobacter cloacae,Nitrofurantoína,12,8,28,,48,Negativo
+Enterobacter cloacae,Norfloxacino,24,1,23,,48,Negativo
+Enterobacter cloacae,Piperacilina-Tazobactam,20,11,135,,166,Negativo
+Enterobacter cloacae,Tetraciclina,35,,12,,47,Negativo
+Enterobacter cloacae,Tigeciclina,1,12,93,11,117,Negativo
+Enterobacter cloacae,Trimetoprim-Sulfametoxazol,86,,79,,165,Negativo
+Total Enterobacter cloacae,,1308,130,1396,229,3063,
+Klebsiella aerogenes,Amikacina,2,1,117,,120,Negativo
+Klebsiella aerogenes,Amoxicilina-Clavulanato,29,,,,29,Negativo
+Klebsiella aerogenes,Ampicilina,120,,,,120,Negativo
+Klebsiella aerogenes,Ampicilina-Sulbactam,93,,,,93,Negativo
+Klebsiella aerogenes,Cefazolina,120,,,,120,Negativo
+Klebsiella aerogenes,Cefepima,58,11,50,,119,Negativo
+Klebsiella aerogenes,Cefoxitina,120,,,,120,Negativo
+Klebsiella aerogenes,Ceftazidima,43,6,72,,121,Negativo
+Klebsiella aerogenes,Ceftriaxona,78,,42,,120,Negativo
+Klebsiella aerogenes,Cefuroxima,24,,5,,29,Negativo
+Klebsiella aerogenes,Ciprofloxacino,55,20,45,,120,Negativo
+Klebsiella aerogenes,Colistina,21,,,70,91,Negativo
+Klebsiella aerogenes,Ertapenem,41,4,73,,118,Negativo
+Klebsiella aerogenes,Gentamicina,46,2,72,,120,Negativo
+Klebsiella aerogenes,Imipenem,25,16,79,,120,Negativo
+Klebsiella aerogenes,Levofloxacino,40,,,79,119,Negativo
+Klebsiella aerogenes,Meropenem,30,5,83,,118,Negativo
+Klebsiella aerogenes,Nitrofurantoína,13,7,9,,29,Negativo
+Klebsiella aerogenes,Norfloxacino,14,,15,,29,Negativo
+Klebsiella aerogenes,Piperacilina-Tazobactam,22,10,87,,119,Negativo
+Klebsiella aerogenes,Tetraciclina,22,,7,,29,Negativo
+Klebsiella aerogenes,Tigeciclina,13,12,54,14,93,Negativo
+Klebsiella aerogenes,Trimetoprim-Sulfametoxazol,74,,47,,121,Negativo
+Total Klebsiella aerogenes,,1103,94,857,163,2217,
+Klebsiella oxytoca,Amikacina,,,72,,72,Negativo
+Klebsiella oxytoca,Amoxicilina-Clavulanato,9,5,12,,26,Negativo
+Klebsiella oxytoca,Ampicilina,72,,,,72,Negativo
+Klebsiella oxytoca,Ampicilina-Sulbactam,21,7,18,,46,Negativo
+Klebsiella oxytoca,Cefazolina,41,,18,13,72,Negativo
+Klebsiella oxytoca,Cefepima,30,6,36,,72,Negativo
+Klebsiella oxytoca,Cefoxitina,33,3,36,,72,Negativo
+Klebsiella oxytoca,Ceftazidima,27,,45,,72,Negativo
+Klebsiella oxytoca,Ceftriaxona,36,,36,,72,Negativo
+Klebsiella oxytoca,Cefuroxima,16,,10,,26,Negativo
+Klebsiella oxytoca,Ciprofloxacino,33,4,35,,72,Negativo
+Klebsiella oxytoca,Colistina,4,,,42,46,Negativo
+Klebsiella oxytoca,Ertapenem,21,4,47,,72,Negativo
+Klebsiella oxytoca,Gentamicina,20,,52,,72,Negativo
+Klebsiella oxytoca,Imipenem,10,8,54,,72,Negativo
+Klebsiella oxytoca,Levofloxacino,27,,,45,72,Negativo
+Klebsiella oxytoca,Meropenem,8,5,58,,71,Negativo
+Klebsiella oxytoca,Nitrofurantoína,12,3,11,,26,Negativo
+Klebsiella oxytoca,Norfloxacino,11,,14,,25,Negativo
+Klebsiella oxytoca,Piperacilina-Tazobactam,14,8,49,,71,Negativo
+Klebsiella oxytoca,Tetraciclina,18,,8,,26,Negativo
+Klebsiella oxytoca,Tigeciclina,1,3,37,5,46,Negativo
+Klebsiella oxytoca,Trimetoprim-Sulfametoxazol,37,,35,,72,Negativo
+Total Klebsiella oxytoca,,501,56,683,105,1345,
+Proteus mirabilis,Amikacina,,,57,,57,Negativo
+Proteus mirabilis,Amoxicilina-Clavulanato,7,,19,,26,Negativo
+Proteus mirabilis,Ampicilina,26,3,28,,57,Negativo
+Proteus mirabilis,Ampicilina-Sulbactam,5,3,23,,31,Negativo
+Proteus mirabilis,Cefazolina,13,,,45,58,Negativo
+Proteus mirabilis,Cefepima,6,5,46,,57,Negativo
+Proteus mirabilis,Cefoxitina,4,4,49,,57,Negativo
+Proteus mirabilis,Ceftazidima,6,1,50,,57,Negativo
+Proteus mirabilis,Ceftriaxona,18,,39,,57,Negativo
+Proteus mirabilis,Cefuroxima,10,,16,,26,Negativo
+Proteus mirabilis,Ciprofloxacino,19,2,36,,57,Negativo
+Proteus mirabilis,Colistina,30,,,1,31,Negativo
+Proteus mirabilis,Ertapenem,11,,44,,55,Negativo
+Proteus mirabilis,Gentamicina,12,2,44,,58,Negativo
+Proteus mirabilis,Levofloxacino,19,,,38,57,Negativo
+Proteus mirabilis,Meropenem,4,5,47,,56,Negativo
+Proteus mirabilis,Nitrofurantoína,23,3,,,26,Negativo
+Proteus mirabilis,Norfloxacino,5,2,19,,26,Negativo
+Proteus mirabilis,Piperacilina-Tazobactam,1,1,55,,57,Negativo
+Proteus mirabilis,Tetraciclina,25,,1,,26,Negativo
+Proteus mirabilis,Trimetoprim-Sulfametoxazol,20,,37,,57,Negativo
+Total Proteus mirabilis,,264,31,610,84,989,
+Stenotrophomonas maltophilia,Amikacina,36,,,,36,Negativo
+Stenotrophomonas maltophilia,Amoxicilina-Clavulanato,2,,,,2,Negativo
+Stenotrophomonas maltophilia,Ampicilina,37,,,,37,Negativo
+Stenotrophomonas maltophilia,Ampicilina-Sulbactam,35,,,,35,Negativo
+Stenotrophomonas maltophilia,Cefazolina,37,,,,37,Negativo
+Stenotrophomonas maltophilia,Cefoxitina,37,,,,37,Negativo
+Stenotrophomonas maltophilia,Ceftazidima,17,5,16,,38,Negativo
+Stenotrophomonas maltophilia,Ceftriaxona,37,,,,37,Negativo
+Stenotrophomonas maltophilia,Cefuroxima,2,,,,2,Negativo
+Stenotrophomonas maltophilia,Ertapenem,37,,,,37,Negativo
+Stenotrophomonas maltophilia,Fosfomicina c/G6P,35,,,,35,Negativo
+Stenotrophomonas maltophilia,Gentamicina,37,,,,37,Negativo
+Stenotrophomonas maltophilia,Imipenem,37,,,,37,Negativo
+Stenotrophomonas maltophilia,Levofloxacino,5,7,25,,37,Negativo
+Stenotrophomonas maltophilia,Meropenem,37,,,,37,Negativo
+Stenotrophomonas maltophilia,Nitrofurantoína,1,,,,1,Negativo
+Stenotrophomonas maltophilia,Piperacilina-Tazobactam,38,,,,38,Negativo
+Stenotrophomonas maltophilia,Tetraciclina,2,,,,2,Negativo
+Stenotrophomonas maltophilia,Trimetoprim-Sulfametoxazol,11,,26,,37,Negativo
+Total Stenotrophomonas maltophilia,,480,12,67,,559,
+Salmonella enterica ssp enterica sv Typhi,Amikacina,18,,,,18,Negativo
+Salmonella enterica ssp enterica sv Typhi,Ampicilina,1,,17,,18,Negativo
+Salmonella enterica ssp enterica sv Typhi,Ampicilina-Sulbactam,,,18,,18,Negativo
+Salmonella enterica ssp enterica sv Typhi,Cefazolina,18,,,,18,Negativo
+Salmonella enterica ssp enterica sv Typhi,Cefepima,,1,17,,18,Negativo
+Salmonella enterica ssp enterica sv Typhi,Cefoxitina,18,,,,18,Negativo
+Salmonella enterica ssp enterica sv Typhi,Ceftazidima,,,18,,18,Negativo
+Salmonella enterica ssp enterica sv Typhi,Ceftriaxona,1,,17,,18,Negativo
+Salmonella enterica ssp enterica sv Typhi,Ciprofloxacino,1,3,,14,18,Negativo
+Salmonella enterica ssp enterica sv Typhi,Colistina,1,,,17,18,Negativo
+Salmonella enterica ssp enterica sv Typhi,Ertapenem,1,,16,,17,Negativo
+Salmonella enterica ssp enterica sv Typhi,Gentamicina,18,,,,18,Negativo
+Salmonella enterica ssp enterica sv Typhi,Imipenem,1,,18,,19,Negativo
+Salmonella enterica ssp enterica sv Typhi,Levofloxacino,1,,,17,18,Negativo
+Salmonella enterica ssp enterica sv Typhi,Meropenem,1,,16,,17,Negativo
+Salmonella enterica ssp enterica sv Typhi,Piperacilina-Tazobactam,,,18,,18,Negativo
+Salmonella enterica ssp enterica sv Typhi,Tigeciclina,1,,17,,18,Negativo
+Salmonella enterica ssp enterica sv Typhi,Trimetoprim-Sulfametoxazol,1,,17,,18,Negativo
+Total Salmonella enterica ssp enterica sv Typhi,,82,4,189,48,323,
+Acinetobacter baumannii,Amikacina,,,16,,16,Negativo
+Acinetobacter baumannii,Amoxicilina-Clavulanato,7,,,,7,Negativo
+Acinetobacter baumannii,Ampicilina,16,,,,16,Negativo
+Acinetobacter baumannii,Ampicilina-Sulbactam,,,9,,9,Negativo
+Acinetobacter baumannii,Cefazolina,16,,,,16,Negativo
+Acinetobacter baumannii,Cefepima,3,2,11,,16,Negativo
+Acinetobacter baumannii,Cefoxitina,16,,,,16,Negativo
+Acinetobacter baumannii,Ceftazidima,3,2,11,,16,Negativo
+Acinetobacter baumannii,Ceftriaxona,,,3,13,16,Negativo
+Acinetobacter baumannii,Cefuroxima,7,,,,7,Negativo
+Acinetobacter baumannii,Ciprofloxacino,3,,13,,16,Negativo
+Acinetobacter baumannii,Colistina,,,,9,9,Negativo
+Acinetobacter baumannii,Ertapenem,16,,,,16,Negativo
+Acinetobacter baumannii,Fosfomicina c/G6P,9,,,,9,Negativo
+Acinetobacter baumannii,Gentamicina,3,,13,,16,Negativo
+Acinetobacter baumannii,Imipenem,2,,14,,16,Negativo
+Acinetobacter baumannii,Levofloxacino,3,,13,,16,Negativo
+Acinetobacter baumannii,Meropenem,4,,12,,16,Negativo
+Acinetobacter baumannii,Nitrofurantoína,7,,,,7,Negativo
+Acinetobacter baumannii,Piperacilina-Tazobactam,3,1,12,,16,Negativo
+Acinetobacter baumannii,Tetraciclina,2,,5,,7,Negativo
+Acinetobacter baumannii,Trimetoprim-Sulfametoxazol,6,,10,,16,Negativo
+Total Acinetobacter baumannii,,126,5,142,22,295,
+Citrobacter freundii,Amikacina,,,16,,16,Negativo
+Citrobacter freundii,Amoxicilina-Clavulanato,7,,,,7,Negativo
+Citrobacter freundii,Ampicilina,16,,,,16,Negativo
+Citrobacter freundii,Ampicilina-Sulbactam,9,,,,9,Negativo
+Citrobacter freundii,Cefazolina,16,,,,16,Negativo
+Citrobacter freundii,Cefepima,,1,15,,16,Negativo
+Citrobacter freundii,Cefoxitina,16,,,,16,Negativo
+Citrobacter freundii,Ceftazidima,3,,13,,16,Negativo
+Citrobacter freundii,Ceftriaxona,6,,10,,16,Negativo
+Citrobacter freundii,Cefuroxima,7,,,,7,Negativo
+Citrobacter freundii,Ciprofloxacino,8,4,4,,16,Negativo
+Citrobacter freundii,Colistina,,,,9,9,Negativo
+Citrobacter freundii,Ertapenem,,,16,,16,Negativo
+Citrobacter freundii,Gentamicina,,,16,,16,Negativo
+Citrobacter freundii,Imipenem,,2,14,,16,Negativo
+Citrobacter freundii,Levofloxacino,6,,,10,16,Negativo
+Citrobacter freundii,Meropenem,,,16,,16,Negativo
+Citrobacter freundii,Nitrofurantoína,1,,6,,7,Negativo
+Citrobacter freundii,Norfloxacino,4,,3,,7,Negativo
+Citrobacter freundii,Piperacilina-Tazobactam,1,1,14,,16,Negativo
+Citrobacter freundii,Tetraciclina,4,,3,,7,Negativo
+Citrobacter freundii,Tigeciclina,,1,7,1,9,Negativo
+Citrobacter freundii,Trimetoprim-Sulfametoxazol,9,,7,,16,Negativo
+Total Citrobacter freundii,,113,9,160,20,302,
+Raoultella ornithinolytica,Amikacina,,,16,,16,Negativo
+Raoultella ornithinolytica,Amoxicilina-Clavulanato,1,1,2,,4,Negativo
+Raoultella ornithinolytica,Ampicilina,16,,,,16,Negativo
+Raoultella ornithinolytica,Ampicilina-Sulbactam,8,3,1,,12,Negativo
+Raoultella ornithinolytica,Cefazolina,12,1,2,1,16,Negativo
+Raoultella ornithinolytica,Cefepima,10,2,4,,16,Negativo
+Raoultella ornithinolytica,Cefoxitina,9,,7,,16,Negativo
+Raoultella ornithinolytica,Ceftazidima,10,1,5,,16,Negativo
+Raoultella ornithinolytica,Ceftriaxona,12,,4,,16,Negativo
+Raoultella ornithinolytica,Cefuroxima,3,,1,,4,Negativo
+Raoultella ornithinolytica,Ciprofloxacino,10,1,5,,16,Negativo
+Raoultella ornithinolytica,Colistina,3,,,9,12,Negativo
+Raoultella ornithinolytica,Ertapenem,4,3,8,,15,Negativo
+Raoultella ornithinolytica,Gentamicina,8,,8,,16,Negativo
+Raoultella ornithinolytica,Imipenem,6,2,7,,15,Negativo
+Raoultella ornithinolytica,Levofloxacino,9,,,7,16,Negativo
+Raoultella ornithinolytica,Meropenem,5,,10,,15,Negativo
+Raoultella ornithinolytica,Nitrofurantoína,2,1,1,,4,Negativo
+Raoultella ornithinolytica,Norfloxacino,2,,2,,4,Negativo
+Raoultella ornithinolytica,Piperacilina-Tazobactam,4,2,10,,16,Negativo
+Raoultella ornithinolytica,Tetraciclina,2,,2,,4,Negativo
+Raoultella ornithinolytica,Tigeciclina,3,3,4,2,12,Negativo
+Raoultella ornithinolytica,Trimetoprim-Sulfametoxazol,12,,4,,16,Negativo
+Total Raoultella ornithinolytica,,151,20,103,19,293,
+Morganella morganii,Amikacina,,,12,,12,Negativo
+Morganella morganii,Amoxicilina-Clavulanato,5,,,,5,Negativo
+Morganella morganii,Ampicilina,12,,,,12,Negativo
+Morganella morganii,Ampicilina-Sulbactam,2,4,1,,7,Negativo
+Morganella morganii,Cefazolina,12,,,,12,Negativo
+Morganella morganii,Cefepima,,,12,,12,Negativo
+Morganella morganii,Cefoxitina,1,1,10,,12,Negativo
+Morganella morganii,Ceftazidima,2,,10,,12,Negativo
+Morganella morganii,Ceftriaxona,2,,10,,12,Negativo
+Morganella morganii,Cefuroxima,5,,,,5,Negativo
+Morganella morganii,Ciprofloxacino,9,,3,,12,Negativo
+Morganella morganii,Colistina,7,,,,7,Negativo
+Morganella morganii,Ertapenem,3,1,8,,12,Negativo
+Morganella morganii,Gentamicina,6,3,3,,12,Negativo
+Morganella morganii,Imipenem,9,3,,,12,Negativo
+Morganella morganii,Levofloxacino,6,,,6,12,Negativo
+Morganella morganii,Meropenem,3,,9,,12,Negativo
+Morganella morganii,Nitrofurantoína,5,,,,5,Negativo
+Morganella morganii,Norfloxacino,2,,3,,5,Negativo
+Morganella morganii,Piperacilina-Tazobactam,2,,10,,12,Negativo
+Morganella morganii,Tetraciclina,4,,1,,5,Negativo
+Morganella morganii,Tigeciclina,5,,,2,7,Negativo
+Morganella morganii,Trimetoprim-Sulfametoxazol,8,,4,,12,Negativo
+Total Morganella morganii,,110,12,96,8,226,
+Acinetobacter baumannii/calcoaceticus complejo,Amikacina,,,11,,11,Negativo
+Acinetobacter baumannii/calcoaceticus complejo,Amoxicilina-Clavulanato,2,,,,2,Negativo
+Acinetobacter baumannii/calcoaceticus complejo,Ampicilina,11,,,,11,Negativo
+Acinetobacter baumannii/calcoaceticus complejo,Ampicilina-Sulbactam,1,,8,,9,Negativo
+Acinetobacter baumannii/calcoaceticus complejo,Cefazolina,11,,,,11,Negativo
+Acinetobacter baumannii/calcoaceticus complejo,Cefepima,2,2,6,,10,Negativo
+Acinetobacter baumannii/calcoaceticus complejo,Cefoxitina,11,,,,11,Negativo
+Acinetobacter baumannii/calcoaceticus complejo,Ceftazidima,3,1,7,,11,Negativo
+Acinetobacter baumannii/calcoaceticus complejo,Ceftriaxona,,,4,6,10,Negativo
+Acinetobacter baumannii/calcoaceticus complejo,Cefuroxima,2,,,,2,Negativo
+Acinetobacter baumannii/calcoaceticus complejo,Ciprofloxacino,2,1,8,,11,Negativo
+Acinetobacter baumannii/calcoaceticus complejo,Colistina,4,,,5,9,Negativo
+Acinetobacter baumannii/calcoaceticus complejo,Ertapenem,10,,,,10,Negativo
+Acinetobacter baumannii/calcoaceticus complejo,Fosfomicina c/G6P,9,,,,9,Negativo
+Acinetobacter baumannii/calcoaceticus complejo,Gentamicina,2,,9,,11,Negativo
+Acinetobacter baumannii/calcoaceticus complejo,Imipenem,1,1,9,,11,Negativo
+Acinetobacter baumannii/calcoaceticus complejo,Levofloxacino,2,,9,,11,Negativo
+Acinetobacter baumannii/calcoaceticus complejo,Meropenem,3,,7,,10,Negativo
+Acinetobacter baumannii/calcoaceticus complejo,Nitrofurantoína,2,,,,2,Negativo
+Acinetobacter baumannii/calcoaceticus complejo,Piperacilina-Tazobactam,2,1,8,,11,Negativo
+Acinetobacter baumannii/calcoaceticus complejo,Tetraciclina,,,2,,2,Negativo
+Acinetobacter baumannii/calcoaceticus complejo,Tigeciclina,,,,2,2,Negativo
+Acinetobacter baumannii/calcoaceticus complejo,Trimetoprim-Sulfametoxazol,2,,9,,11,Negativo
+Total Acinetobacter baumannii/calcoaceticus complejo,,82,6,97,13,198,
+Serratia marcescens,Amikacina,,1,10,,11,Negativo
+Serratia marcescens,Amoxicilina-Clavulanato,1,,,,1,Negativo
+Serratia marcescens,Ampicilina,11,,,,11,Negativo
+Serratia marcescens,Ampicilina-Sulbactam,10,,,,10,Negativo
+Serratia marcescens,Cefazolina,11,,,,11,Negativo
+Serratia marcescens,Cefepima,1,2,7,,10,Negativo
+Serratia marcescens,Cefoxitina,11,,,,11,Negativo
+Serratia marcescens,Ceftazidima,,1,10,,11,Negativo
+Serratia marcescens,Ceftriaxona,4,,7,,11,Negativo
+Serratia marcescens,Cefuroxima,1,,,,1,Negativo
+Serratia marcescens,Ciprofloxacino,1,,10,,11,Negativo
+Serratia marcescens,Colistina,10,,,,10,Negativo
+Serratia marcescens,Ertapenem,2,2,7,,11,Negativo
+Serratia marcescens,Gentamicina,,2,9,,11,Negativo
+Serratia marcescens,Imipenem,4,1,5,,10,Negativo
+Serratia marcescens,Levofloxacino,1,,,10,11,Negativo
+Serratia marcescens,Meropenem,1,,10,,11,Negativo
+Serratia marcescens,Nitrofurantoína,1,,,,1,Negativo
+Serratia marcescens,Norfloxacino,1,,,,1,Negativo
+Serratia marcescens,Piperacilina-Tazobactam,,,11,,11,Negativo
+Serratia marcescens,Tetraciclina,1,,,,1,Negativo
+Serratia marcescens,Tigeciclina,1,6,3,,10,Negativo
+Serratia marcescens,Trimetoprim-Sulfametoxazol,,,11,,11,Negativo
+Total Serratia marcescens,,73,15,100,10,198,
+Pseudomonas putida,Amikacina,,1,9,,10,Negativo
+Pseudomonas putida,Amoxicilina-Clavulanato,1,,,,1,Negativo
+Pseudomonas putida,Ampicilina,10,,,,10,Negativo
+Pseudomonas putida,Ampicilina-Sulbactam,9,,,,9,Negativo
+Pseudomonas putida,Cefazolina,10,,,,10,Negativo
+Pseudomonas putida,Cefepima,1,,9,,10,Negativo
+Pseudomonas putida,Cefoxitina,10,,,,10,Negativo
+Pseudomonas putida,Ceftazidima,1,,9,,10,Negativo
+Pseudomonas putida,Ceftriaxona,,,7,3,10,Negativo
+Pseudomonas putida,Cefuroxima,1,,,,1,Negativo
+Pseudomonas putida,Ciprofloxacino,1,,9,,10,Negativo
+Pseudomonas putida,Colistina,,,,7,7,Negativo
+Pseudomonas putida,Ertapenem,10,,,,10,Negativo
+Pseudomonas putida,Gentamicina,2,,8,,10,Negativo
+Pseudomonas putida,Imipenem,1,1,8,,10,Negativo
+Pseudomonas putida,Levofloxacino,1,,9,,10,Negativo
+Pseudomonas putida,Meropenem,,1,9,,10,Negativo
+Pseudomonas putida,Nitrofurantoína,1,,,,1,Negativo
+Pseudomonas putida,Norfloxacino,1,,,,1,Negativo
+Pseudomonas putida,Piperacilina-Tazobactam,1,,9,,10,Negativo
+Pseudomonas putida,Tetraciclina,1,,,,1,Negativo
+Pseudomonas putida,Trimetoprim-Sulfametoxazol,3,,7,,10,Negativo
+Total Pseudomonas putida,,65,3,93,10,171,
+Aeromonas hydrophila,Amikacina,,,7,,7,Negativo
+Aeromonas hydrophila,Amoxicilina-Clavulanato,3,,,,3,Negativo
+Aeromonas hydrophila,Ampicilina,7,,,,7,Negativo
+Aeromonas hydrophila,Cefazolina,7,,,,7,Negativo
+Aeromonas hydrophila,Cefepima,1,2,4,,7,Negativo
+Aeromonas hydrophila,Cefoxitina,5,1,1,,7,Negativo
+Aeromonas hydrophila,Ceftazidima,,,7,,7,Negativo
+Aeromonas hydrophila,Ceftriaxona,1,,6,,7,Negativo
+Aeromonas hydrophila,Cefuroxima,1,1,1,,3,Negativo
+Aeromonas hydrophila,Ciprofloxacino,,2,5,,7,Negativo
+Aeromonas hydrophila,Ertapenem,6,,1,,7,Negativo
+Aeromonas hydrophila,Gentamicina,1,,6,,7,Negativo
+Aeromonas hydrophila,Imipenem,3,,4,,7,Negativo
+Aeromonas hydrophila,Levofloxacino,1,,,6,7,Negativo
+Aeromonas hydrophila,Meropenem,4,,3,,7,Negativo
+Aeromonas hydrophila,Piperacilina-Tazobactam,,,7,,7,Negativo
+Aeromonas hydrophila,Tetraciclina,2,,1,,3,Negativo
+Aeromonas hydrophila,Trimetoprim-Sulfametoxazol,2,,5,,7,Negativo
+Total Aeromonas hydrophila,,44,6,58,6,114,
+Klebsiella ozaenae,Amikacina,,,6,,6,Negativo
+Klebsiella ozaenae,Amoxicilina-Clavulanato,,,4,,4,Negativo
+Klebsiella ozaenae,Ampicilina,6,,,,6,Negativo
+Klebsiella ozaenae,Ampicilina-Sulbactam,2,,,,2,Negativo
+Klebsiella ozaenae,Cefazolina,2,,,4,6,Negativo
+Klebsiella ozaenae,Cefepima,2,,4,,6,Negativo
+Klebsiella ozaenae,Cefoxitina,,,6,,6,Negativo
+Klebsiella ozaenae,Ceftazidima,2,,4,,6,Negativo
+Klebsiella ozaenae,Ceftriaxona,2,,4,,6,Negativo
+Klebsiella ozaenae,Cefuroxima,,,4,,4,Negativo
+Klebsiella ozaenae,Ciprofloxacino,4,,2,,6,Negativo
+Klebsiella ozaenae,Colistina,,,,2,2,Negativo
+Klebsiella ozaenae,Ertapenem,1,,5,,6,Negativo
+Klebsiella ozaenae,Gentamicina,1,1,4,,6,Negativo
+Klebsiella ozaenae,Imipenem,1,,5,,6,Negativo
+Klebsiella ozaenae,Levofloxacino,3,,,3,6,Negativo
+Klebsiella ozaenae,Meropenem,1,,5,,6,Negativo
+Klebsiella ozaenae,Nitrofurantoína,1,,3,,4,Negativo
+Klebsiella ozaenae,Norfloxacino,2,,2,,4,Negativo
+Klebsiella ozaenae,Piperacilina-Tazobactam,1,,5,,6,Negativo
+Klebsiella ozaenae,Tetraciclina,1,,3,,4,Negativo
+Klebsiella ozaenae,Tigeciclina,,,2,,2,Negativo
+Klebsiella ozaenae,Trimetoprim-Sulfametoxazol,2,,4,,6,Negativo
+Total Klebsiella ozaenae,,34,1,72,9,116,
+Kluyvera ascorbata,Amikacina,,,6,,6,Negativo
+Kluyvera ascorbata,Amoxicilina-Clavulanato,1,1,,,2,Negativo
+Kluyvera ascorbata,Ampicilina,6,,,,6,Negativo
+Kluyvera ascorbata,Ampicilina-Sulbactam,1,1,2,,4,Negativo
+Kluyvera ascorbata,Cefazolina,3,,1,2,6,Negativo
+Kluyvera ascorbata,Cefepima,2,,4,,6,Negativo
+Kluyvera ascorbata,Cefoxitina,3,,3,,6,Negativo
+Kluyvera ascorbata,Ceftazidima,,1,5,,6,Negativo
+Kluyvera ascorbata,Ceftriaxona,2,,4,,6,Negativo
+Kluyvera ascorbata,Cefuroxima,1,,1,,2,Negativo
+Kluyvera ascorbata,Ciprofloxacino,3,1,2,,6,Negativo
+Kluyvera ascorbata,Colistina,,,,4,4,Negativo
+Kluyvera ascorbata,Ertapenem,3,,3,,6,Negativo
+Kluyvera ascorbata,Gentamicina,3,,3,,6,Negativo
+Kluyvera ascorbata,Imipenem,,,6,,6,Negativo
+Kluyvera ascorbata,Levofloxacino,2,,,4,6,Negativo
+Kluyvera ascorbata,Meropenem,1,,5,,6,Negativo
+Kluyvera ascorbata,Nitrofurantoína,2,,,,2,Negativo
+Kluyvera ascorbata,Norfloxacino,1,,1,,2,Negativo
+Kluyvera ascorbata,Piperacilina-Tazobactam,,,6,,6,Negativo
+Kluyvera ascorbata,Tetraciclina,1,,1,,2,Negativo
+Kluyvera ascorbata,Tigeciclina,,1,3,,4,Negativo
+Kluyvera ascorbata,Trimetoprim-Sulfametoxazol,3,,3,,6,Negativo
+Total Kluyvera ascorbata,,38,5,59,10,112,
+Citrobacter farmeri,Amikacina,,,5,,5,Negativo
+Citrobacter farmeri,Amoxicilina-Clavulanato,,1,,,1,Negativo
+Citrobacter farmeri,Ampicilina,5,,,,5,Negativo
+Citrobacter farmeri,Ampicilina-Sulbactam,2,,2,,4,Negativo
+Citrobacter farmeri,Cefazolina,5,,,,5,Negativo
+Citrobacter farmeri,Cefepima,2,3,,,5,Negativo
+Citrobacter farmeri,Cefoxitina,1,,4,,5,Negativo
+Citrobacter farmeri,Ceftazidima,2,2,1,,5,Negativo
+Citrobacter farmeri,Ceftriaxona,5,,,,5,Negativo
+Citrobacter farmeri,Cefuroxima,1,,,,1,Negativo
+Citrobacter farmeri,Ciprofloxacino,4,,1,,5,Negativo
+Citrobacter farmeri,Colistina,,,,4,4,Negativo
+Citrobacter farmeri,Ertapenem,2,,3,,5,Negativo
+Citrobacter farmeri,Gentamicina,2,,3,,5,Negativo
+Citrobacter farmeri,Imipenem,1,,4,,5,Negativo
+Citrobacter farmeri,Levofloxacino,4,,,1,5,Negativo
+Citrobacter farmeri,Meropenem,1,,4,,5,Negativo
+Citrobacter farmeri,Nitrofurantoína,1,,,,1,Negativo
+Citrobacter farmeri,Norfloxacino,1,,,,1,Negativo
+Citrobacter farmeri,Piperacilina-Tazobactam,1,,4,,5,Negativo
+Citrobacter farmeri,Tetraciclina,1,,,,1,Negativo
+Citrobacter farmeri,Tigeciclina,,,2,2,4,Negativo
+Citrobacter farmeri,Trimetoprim-Sulfametoxazol,3,,2,,5,Negativo
+Total Citrobacter farmeri,,44,6,35,7,92,
+Citrobacter koseri,Amikacina,,,5,,5,Negativo
+Citrobacter koseri,Amoxicilina-Clavulanato,,1,1,,2,Negativo
+Citrobacter koseri,Ampicilina,5,,,,5,Negativo
+Citrobacter koseri,Ampicilina-Sulbactam,2,1,,,3,Negativo
+Citrobacter koseri,Cefazolina,4,,1,,5,Negativo
+Citrobacter koseri,Cefepima,4,,1,,5,Negativo
+Citrobacter koseri,Cefoxitina,1,,4,,5,Negativo
+Citrobacter koseri,Ceftazidima,1,,4,,5,Negativo
+Citrobacter koseri,Ceftriaxona,4,,1,,5,Negativo
+Citrobacter koseri,Cefuroxima,1,1,,,2,Negativo
+Citrobacter koseri,Ciprofloxacino,2,1,2,,5,Negativo
+Citrobacter koseri,Colistina,,,,3,3,Negativo
+Citrobacter koseri,Ertapenem,3,,2,,5,Negativo
+Citrobacter koseri,Gentamicina,1,,4,,5,Negativo
+Citrobacter koseri,Imipenem,1,,4,,5,Negativo
+Citrobacter koseri,Levofloxacino,2,,,3,5,Negativo
+Citrobacter koseri,Meropenem,1,,4,,5,Negativo
+Citrobacter koseri,Nitrofurantoína,,1,1,,2,Negativo
+Citrobacter koseri,Norfloxacino,1,,1,,2,Negativo
+Citrobacter koseri,Piperacilina-Tazobactam,1,,4,,5,Negativo
+Citrobacter koseri,Tetraciclina,1,,1,,2,Negativo
+Citrobacter koseri,Tigeciclina,2,,1,,3,Negativo
+Citrobacter koseri,Trimetoprim-Sulfametoxazol,2,,3,,5,Negativo
+Total Citrobacter koseri,,39,5,44,6,94,
+Salmonella spp.,Amikacina,5,,,,5,Negativo
+Salmonella spp.,Ampicilina,1,,4,,5,Negativo
+Salmonella spp.,Ampicilina-Sulbactam,1,,4,,5,Negativo
+Salmonella spp.,Cefazolina,5,,,,5,Negativo
+Salmonella spp.,Cefepima,,1,4,,5,Negativo
+Salmonella spp.,Cefoxitina,5,,,,5,Negativo
+Salmonella spp.,Ceftazidima,1,,4,,5,Negativo
+Salmonella spp.,Ceftriaxona,1,,4,,5,Negativo
+Salmonella spp.,Ciprofloxacino,3,1,,1,5,Negativo
+Salmonella spp.,Colistina,1,,,4,5,Negativo
+Salmonella spp.,Ertapenem,1,,4,,5,Negativo
+Salmonella spp.,Gentamicina,5,,,,5,Negativo
+Salmonella spp.,Imipenem,1,,4,,5,Negativo
+Salmonella spp.,Levofloxacino,2,,,3,5,Negativo
+Salmonella spp.,Meropenem,,,5,,5,Negativo
+Salmonella spp.,Piperacilina-Tazobactam,,,5,,5,Negativo
+Salmonella spp.,Tigeciclina,,1,4,,5,Negativo
+Salmonella spp.,Trimetoprim-Sulfametoxazol,1,,4,,5,Negativo
+Total Salmonella spp.,,33,3,46,8,90,
+Pantoea agglomerans,Amikacina,1,,3,,4,Negativo
+Pantoea agglomerans,Amoxicilina-Clavulanato,1,,1,,2,Negativo
+Pantoea agglomerans,Ampicilina,2,,2,,4,Negativo
+Pantoea agglomerans,Ampicilina-Sulbactam,2,,,,2,Negativo
+Pantoea agglomerans,Cefazolina,3,1,,,4,Negativo
+Pantoea agglomerans,Cefepima,3,,1,,4,Negativo
+Pantoea agglomerans,Cefoxitina,4,,,,4,Negativo
+Pantoea agglomerans,Ceftazidima,3,,1,,4,Negativo
+Pantoea agglomerans,Ceftriaxona,3,,1,,4,Negativo
+Pantoea agglomerans,Cefuroxima,1,,1,,2,Negativo
+Pantoea agglomerans,Ciprofloxacino,3,1,,,4,Negativo
+Pantoea agglomerans,Colistina,2,,,,2,Negativo
+Pantoea agglomerans,Ertapenem,3,,1,,4,Negativo
+Pantoea agglomerans,Gentamicina,3,,1,,4,Negativo
+Pantoea agglomerans,Levofloxacino,3,,,1,4,Negativo
+Pantoea agglomerans,Meropenem,3,,1,,4,Negativo
+Pantoea agglomerans,Nitrofurantoína,,1,1,,2,Negativo
+Pantoea agglomerans,Norfloxacino,1,,1,,2,Negativo
+Pantoea agglomerans,Piperacilina-Tazobactam,2,,2,,4,Negativo
+Pantoea agglomerans,Tetraciclina,1,,1,,2,Negativo
+Pantoea agglomerans,Tigeciclina,,,1,1,2,Negativo
+Pantoea agglomerans,Trimetoprim-Sulfametoxazol,2,,2,,4,Negativo
+Total Pantoea agglomerans,,46,3,21,2,72,
+Serratia fonticola,Amikacina,,,4,,4,Negativo
+Serratia fonticola,Amoxicilina-Clavulanato,2,,,,2,Negativo
+Serratia fonticola,Ampicilina,4,,,,4,Negativo
+Serratia fonticola,Ampicilina-Sulbactam,2,,,,2,Negativo
+Serratia fonticola,Cefazolina,4,,,,4,Negativo
+Serratia fonticola,Cefepima,2,1,1,,4,Negativo
+Serratia fonticola,Cefoxitina,2,,2,,4,Negativo
+Serratia fonticola,Ceftazidima,1,,3,,4,Negativo
+Serratia fonticola,Ceftriaxona,3,,1,,4,Negativo
+Serratia fonticola,Cefuroxima,2,,,,2,Negativo
+Serratia fonticola,Ciprofloxacino,1,,3,,4,Negativo
+Serratia fonticola,Colistina,,,,2,2,Negativo
+Serratia fonticola,Ertapenem,2,1,1,,4,Negativo
+Serratia fonticola,Gentamicina,,,4,,4,Negativo
+Serratia fonticola,Imipenem,,,4,,4,Negativo
+Serratia fonticola,Levofloxacino,1,,,3,4,Negativo
+Serratia fonticola,Meropenem,2,,2,,4,Negativo
+Serratia fonticola,Nitrofurantoína,2,,,,2,Negativo
+Serratia fonticola,Norfloxacino,,1,1,,2,Negativo
+Serratia fonticola,Piperacilina-Tazobactam,,,4,,4,Negativo
+Serratia fonticola,Tetraciclina,2,,,,2,Negativo
+Serratia fonticola,Tigeciclina,,,2,,2,Negativo
+Serratia fonticola,Trimetoprim-Sulfametoxazol,4,,,,4,Negativo
+Total Serratia fonticola,,36,3,32,5,76,
+Cedecea davisae,Amikacina,,,3,,3,Negativo
+Cedecea davisae,Amoxicilina-Clavulanato,1,,,,1,Negativo
+Cedecea davisae,Ampicilina,1,,2,,3,Negativo
+Cedecea davisae,Ampicilina-Sulbactam,,,2,,2,Negativo
+Cedecea davisae,Cefazolina,3,,,,3,Negativo
+Cedecea davisae,Cefepima,1,,2,,3,Negativo
+Cedecea davisae,Cefoxitina,1,,2,,3,Negativo
+Cedecea davisae,Ceftazidima,1,,2,,3,Negativo
+Cedecea davisae,Ceftriaxona,2,,1,,3,Negativo
+Cedecea davisae,Cefuroxima,,,1,,1,Negativo
+Cedecea davisae,Ciprofloxacino,1,1,1,,3,Negativo
+Cedecea davisae,Colistina,2,,,,2,Negativo
+Cedecea davisae,Ertapenem,1,,2,,3,Negativo
+Cedecea davisae,Gentamicina,,,3,,3,Negativo
+Cedecea davisae,Imipenem,1,,2,,3,Negativo
+Cedecea davisae,Levofloxacino,1,,,2,3,Negativo
+Cedecea davisae,Meropenem,,1,2,,3,Negativo
+Cedecea davisae,Nitrofurantoína,1,,,,1,Negativo
+Cedecea davisae,Norfloxacino,,1,,,1,Negativo
+Cedecea davisae,Piperacilina-Tazobactam,,,3,,3,Negativo
+Cedecea davisae,Tetraciclina,1,,,,1,Negativo
+Cedecea davisae,Tigeciclina,,,2,,2,Negativo
+Cedecea davisae,Trimetoprim-Sulfametoxazol,1,,2,,3,Negativo
+Total Cedecea davisae,,19,3,32,2,56,
+Cedecea lapagei,Amikacina,1,1,1,,3,Negativo
+Cedecea lapagei,Amoxicilina-Clavulanato,,,1,,1,Negativo
+Cedecea lapagei,Ampicilina,3,,,,3,Negativo
+Cedecea lapagei,Ampicilina-Sulbactam,,,2,,2,Negativo
+Cedecea lapagei,Cefazolina,2,,1,,3,Negativo
+Cedecea lapagei,Cefepima,2,,1,,3,Negativo
+Cedecea lapagei,Cefoxitina,2,,1,,3,Negativo
+Cedecea lapagei,Ceftazidima,1,1,1,,3,Negativo
+Cedecea lapagei,Ceftriaxona,2,,1,,3,Negativo
+Cedecea lapagei,Cefuroxima,1,,,,1,Negativo
+Cedecea lapagei,Ciprofloxacino,2,,1,,3,Negativo
+Cedecea lapagei,Colistina,2,,,,2,Negativo
+Cedecea lapagei,Ertapenem,2,,,,2,Negativo
+Cedecea lapagei,Gentamicina,1,,2,,3,Negativo
+Cedecea lapagei,Imipenem,3,,,,3,Negativo
+Cedecea lapagei,Levofloxacino,2,,,1,3,Negativo
+Cedecea lapagei,Meropenem,2,,1,,3,Negativo
+Cedecea lapagei,Nitrofurantoína,1,,,,1,Negativo
+Cedecea lapagei,Norfloxacino,1,,,,1,Negativo
+Cedecea lapagei,Piperacilina-Tazobactam,1,1,1,,3,Negativo
+Cedecea lapagei,Tetraciclina,1,,,,1,Negativo
+Cedecea lapagei,Tigeciclina,1,,1,,2,Negativo
+Cedecea lapagei,Trimetoprim-Sulfametoxazol,2,,1,,3,Negativo
+Total Cedecea lapagei,,35,3,16,1,55,
+Proteus vulgaris,Amikacina,,,3,,3,Negativo
+Proteus vulgaris,Amoxicilina-Clavulanato,,,1,,1,Negativo
+Proteus vulgaris,Ampicilina,3,,,,3,Negativo
+Proteus vulgaris,Ampicilina-Sulbactam,2,,,,2,Negativo
+Proteus vulgaris,Cefazolina,3,,,,3,Negativo
+Proteus vulgaris,Cefepima,,,3,,3,Negativo
+Proteus vulgaris,Cefoxitina,,,3,,3,Negativo
+Proteus vulgaris,Ceftazidima,,,3,,3,Negativo
+Proteus vulgaris,Ceftriaxona,3,,,,3,Negativo
+Proteus vulgaris,Cefuroxima,1,,,,1,Negativo
+Proteus vulgaris,Ciprofloxacino,2,,1,,3,Negativo
+Proteus vulgaris,Colistina,2,,,,2,Negativo
+Proteus vulgaris,Ertapenem,1,,2,,3,Negativo
+Proteus vulgaris,Gentamicina,,,3,,3,Negativo
+Proteus vulgaris,Imipenem,3,,,,3,Negativo
+Proteus vulgaris,Levofloxacino,2,,,1,3,Negativo
+Proteus vulgaris,Meropenem,,,3,,3,Negativo
+Proteus vulgaris,Nitrofurantoína,1,,,,1,Negativo
+Proteus vulgaris,Norfloxacino,,,1,,1,Negativo
+Proteus vulgaris,Piperacilina-Tazobactam,,,3,,3,Negativo
+Proteus vulgaris,Tetraciclina,1,,,,1,Negativo
+Proteus vulgaris,Tigeciclina,2,,,,2,Negativo
+Proteus vulgaris,Trimetoprim-Sulfametoxazol,1,,2,,3,Negativo
+Total Proteus vulgaris,,27,,28,1,56,
+Serratia plymuthica,Amikacina,,,3,,3,Negativo
+Serratia plymuthica,Amoxicilina-Clavulanato,1,,,,1,Negativo
+Serratia plymuthica,Ampicilina,3,,,,3,Negativo
+Serratia plymuthica,Ampicilina-Sulbactam,2,,,,2,Negativo
+Serratia plymuthica,Cefazolina,3,,,,3,Negativo
+Serratia plymuthica,Cefepima,,1,2,,3,Negativo
+Serratia plymuthica,Cefoxitina,2,1,,,3,Negativo
+Serratia plymuthica,Ceftazidima,,,3,,3,Negativo
+Serratia plymuthica,Ceftriaxona,1,,2,,3,Negativo
+Serratia plymuthica,Cefuroxima,1,,,,1,Negativo
+Serratia plymuthica,Ciprofloxacino,2,1,,,3,Negativo
+Serratia plymuthica,Colistina,2,,,,2,Negativo
+Serratia plymuthica,Ertapenem,,,3,,3,Negativo
+Serratia plymuthica,Gentamicina,,,3,,3,Negativo
+Serratia plymuthica,Imipenem,,,3,,3,Negativo
+Serratia plymuthica,Levofloxacino,1,,,2,3,Negativo
+Serratia plymuthica,Meropenem,,1,2,,3,Negativo
+Serratia plymuthica,Nitrofurantoína,1,,,,1,Negativo
+Serratia plymuthica,Norfloxacino,1,,,,1,Negativo
+Serratia plymuthica,Piperacilina-Tazobactam,,,3,,3,Negativo
+Serratia plymuthica,Tetraciclina,1,,,,1,Negativo
+Serratia plymuthica,Tigeciclina,,1,1,,2,Negativo
+Serratia plymuthica,Trimetoprim-Sulfametoxazol,,,3,,3,Negativo
+Total Serratia plymuthica,,21,5,28,2,56,
+Aeromonas caviae,Amikacina,,,2,,2,Negativo
+Aeromonas caviae,Amoxicilina-Clavulanato,1,,,,1,Negativo
+Aeromonas caviae,Ampicilina,2,,,,2,Negativo
+Aeromonas caviae,Cefazolina,2,,,,2,Negativo
+Aeromonas caviae,Cefepima,,,2,,2,Negativo
+Aeromonas caviae,Cefoxitina,1,,1,,2,Negativo
+Aeromonas caviae,Ceftazidima,,,2,,2,Negativo
+Aeromonas caviae,Ceftriaxona,,,2,,2,Negativo
+Aeromonas caviae,Cefuroxima,,,1,,1,Negativo
+Aeromonas caviae,Ciprofloxacino,,,2,,2,Negativo
+Aeromonas caviae,Ertapenem,,,2,,2,Negativo
+Aeromonas caviae,Gentamicina,,,2,,2,Negativo
+Aeromonas caviae,Imipenem,,,2,,2,Negativo
+Aeromonas caviae,Levofloxacino,,,,2,2,Negativo
+Aeromonas caviae,Meropenem,,,2,,2,Negativo
+Aeromonas caviae,Piperacilina-Tazobactam,,,2,,2,Negativo
+Aeromonas caviae,Tetraciclina,1,,,,1,Negativo
+Aeromonas caviae,Trimetoprim-Sulfametoxazol,1,,1,,2,Negativo
+Total Aeromonas caviae,,8,,23,2,33,
+Cedecea neteri,Amikacina,1,1,,,2,Negativo
+Cedecea neteri,Amoxicilina-Clavulanato,,,2,,2,Negativo
+Cedecea neteri,Ampicilina,,,2,,2,Negativo
+Cedecea neteri,Cefazolina,2,,,,2,Negativo
+Cedecea neteri,Cefepima,2,,,,2,Negativo
+Cedecea neteri,Cefoxitina,2,,,,2,Negativo
+Cedecea neteri,Ceftazidima,2,,,,2,Negativo
+Cedecea neteri,Ceftriaxona,2,,,,2,Negativo
+Cedecea neteri,Cefuroxima,2,,,,2,Negativo
+Cedecea neteri,Ciprofloxacino,1,,,,1,Negativo
+Cedecea neteri,Ertapenem,2,,,,2,Negativo
+Cedecea neteri,Gentamicina,,1,1,,2,Negativo
+Cedecea neteri,Imipenem,,1,1,,2,Negativo
+Cedecea neteri,Levofloxacino,1,,,,1,Negativo
+Cedecea neteri,Meropenem,2,,,,2,Negativo
+Cedecea neteri,Nitrofurantoína,1,1,,,2,Negativo
+Cedecea neteri,Norfloxacino,1,1,,,2,Negativo
+Cedecea neteri,Piperacilina-Tazobactam,,,2,,2,Negativo
+Cedecea neteri,Tetraciclina,1,,1,,2,Negativo
+Cedecea neteri,Trimetoprim-Sulfametoxazol,,,2,,2,Negativo
+Total Cedecea neteri,,22,5,11,,38,
+Citrobacter braakii,Amikacina,1,,1,,2,Negativo
+Citrobacter braakii,Amoxicilina-Clavulanato,1,,,,1,Negativo
+Citrobacter braakii,Ampicilina,2,,,,2,Negativo
+Citrobacter braakii,Ampicilina-Sulbactam,1,,,,1,Negativo
+Citrobacter braakii,Cefazolina,2,,,,2,Negativo
+Citrobacter braakii,Cefepima,2,,,,2,Negativo
+Citrobacter braakii,Cefoxitina,2,,,,2,Negativo
+Citrobacter braakii,Ceftazidima,2,,,,2,Negativo
+Citrobacter braakii,Ceftriaxona,2,,,,2,Negativo
+Citrobacter braakii,Cefuroxima,1,,,,1,Negativo
+Citrobacter braakii,Ciprofloxacino,2,,,,2,Negativo
+Citrobacter braakii,Colistina,1,,,,1,Negativo
+Citrobacter braakii,Ertapenem,,,2,,2,Negativo
+Citrobacter braakii,Gentamicina,1,,1,,2,Negativo
+Citrobacter braakii,Imipenem,1,,1,,2,Negativo
+Citrobacter braakii,Levofloxacino,2,,,,2,Negativo
+Citrobacter braakii,Meropenem,,,2,,2,Negativo
+Citrobacter braakii,Nitrofurantoína,,1,,,1,Negativo
+Citrobacter braakii,Norfloxacino,1,,,,1,Negativo
+Citrobacter braakii,Piperacilina-Tazobactam,1,1,,,2,Negativo
+Citrobacter braakii,Tetraciclina,1,,,,1,Negativo
+Citrobacter braakii,Tigeciclina,,1,,,1,Negativo
+Citrobacter braakii,Trimetoprim-Sulfametoxazol,2,,,,2,Negativo
+Total Citrobacter braakii,,28,3,7,,38,
+Citrobacter youngae,Amikacina,,,2,,2,Negativo
+Citrobacter youngae,Ampicilina,2,,,,2,Negativo
+Citrobacter youngae,Ampicilina-Sulbactam,2,,,,2,Negativo
+Citrobacter youngae,Cefazolina,2,,,,2,Negativo
+Citrobacter youngae,Cefepima,2,,,,2,Negativo
+Citrobacter youngae,Cefoxitina,1,1,,,2,Negativo
+Citrobacter youngae,Ceftazidima,2,,,,2,Negativo
+Citrobacter youngae,Ceftriaxona,2,,,,2,Negativo
+Citrobacter youngae,Ciprofloxacino,2,,,,2,Negativo
+Citrobacter youngae,Colistina,,,,2,2,Negativo
+Citrobacter youngae,Ertapenem,1,1,,,2,Negativo
+Citrobacter youngae,Gentamicina,1,,1,,2,Negativo
+Citrobacter youngae,Imipenem,2,,,,2,Negativo
+Citrobacter youngae,Levofloxacino,2,,,,2,Negativo
+Citrobacter youngae,Meropenem,1,,1,,2,Negativo
+Citrobacter youngae,Piperacilina-Tazobactam,1,1,,,2,Negativo
+Citrobacter youngae,Tigeciclina,2,,,,2,Negativo
+Citrobacter youngae,Trimetoprim-Sulfametoxazol,2,,,,2,Negativo
+Total Citrobacter youngae,,27,3,4,2,36,
+Providencia rettgeri,Amikacina,1,,1,,2,Negativo
+Providencia rettgeri,Amoxicilina-Clavulanato,2,,,,2,Negativo
+Providencia rettgeri,Ampicilina,2,,,,2,Negativo
+Providencia rettgeri,Cefazolina,2,,,,2,Negativo
+Providencia rettgeri,Cefepima,1,,1,,2,Negativo
+Providencia rettgeri,Cefoxitina,,,2,,2,Negativo
+Providencia rettgeri,Ceftazidima,1,,1,,2,Negativo
+Providencia rettgeri,Ceftriaxona,2,,,,2,Negativo
+Providencia rettgeri,Cefuroxima,2,,,,2,Negativo
+Providencia rettgeri,Ciprofloxacino,2,,,,2,Negativo
+Providencia rettgeri,Ertapenem,1,,1,,2,Negativo
+Providencia rettgeri,Gentamicina,2,,,,2,Negativo
+Providencia rettgeri,Imipenem,,1,1,,2,Negativo
+Providencia rettgeri,Levofloxacino,2,,,,2,Negativo
+Providencia rettgeri,Meropenem,,,2,,2,Negativo
+Providencia rettgeri,Nitrofurantoína,2,,,,2,Negativo
+Providencia rettgeri,Norfloxacino,1,1,,,2,Negativo
+Providencia rettgeri,Piperacilina-Tazobactam,,,2,,2,Negativo
+Providencia rettgeri,Tetraciclina,2,,,,2,Negativo
+Providencia rettgeri,Trimetoprim-Sulfametoxazol,2,,,,2,Negativo
+Total Providencia rettgeri,,27,2,11,,40,
+Serratia liquefaciens,Amikacina,1,,1,,2,Negativo
+Serratia liquefaciens,Amoxicilina-Clavulanato,1,,,,1,Negativo
+Serratia liquefaciens,Ampicilina,2,,,,2,Negativo
+Serratia liquefaciens,Ampicilina-Sulbactam,1,,,,1,Negativo
+Serratia liquefaciens,Cefazolina,2,,,,2,Negativo
+Serratia liquefaciens,Cefepima,2,,,,2,Negativo
+Serratia liquefaciens,Cefoxitina,2,,,,2,Negativo
+Serratia liquefaciens,Ceftazidima,1,,1,,2,Negativo
+Serratia liquefaciens,Ceftriaxona,2,,,,2,Negativo
+Serratia liquefaciens,Cefuroxima,1,,,,1,Negativo
+Serratia liquefaciens,Ciprofloxacino,1,,1,,2,Negativo
+Serratia liquefaciens,Colistina,1,,,,1,Negativo
+Serratia liquefaciens,Ertapenem,2,,,,2,Negativo
+Serratia liquefaciens,Gentamicina,1,,1,,2,Negativo
+Serratia liquefaciens,Imipenem,2,,,,2,Negativo
+Serratia liquefaciens,Levofloxacino,1,,,1,2,Negativo
+Serratia liquefaciens,Meropenem,1,1,,,2,Negativo
+Serratia liquefaciens,Nitrofurantoína,1,,,,1,Negativo
+Serratia liquefaciens,Norfloxacino,1,,,,1,Negativo
+Serratia liquefaciens,Piperacilina-Tazobactam,1,,1,,2,Negativo
+Serratia liquefaciens,Tetraciclina,1,,,,1,Negativo
+Serratia liquefaciens,Tigeciclina,,1,,,1,Negativo
+Serratia liquefaciens,Trimetoprim-Sulfametoxazol,1,,1,,2,Negativo
+Total Serratia liquefaciens,,29,2,6,1,38,
+Serratia odorifera 1,Amikacina,,,2,,2,Negativo
+Serratia odorifera 1,Ampicilina,2,,,,2,Negativo
+Serratia odorifera 1,Ampicilina-Sulbactam,2,,,,2,Negativo
+Serratia odorifera 1,Cefazolina,2,,,,2,Negativo
+Serratia odorifera 1,Cefepima,,,2,,2,Negativo
+Serratia odorifera 1,Cefoxitina,,,2,,2,Negativo
+Serratia odorifera 1,Ceftazidima,,,2,,2,Negativo
+Serratia odorifera 1,Ceftriaxona,1,,1,,2,Negativo
+Serratia odorifera 1,Ciprofloxacino,,,2,,2,Negativo
+Serratia odorifera 1,Colistina,1,,,1,2,Negativo
+Serratia odorifera 1,Ertapenem,1,,1,,2,Negativo
+Serratia odorifera 1,Gentamicina,,,2,,2,Negativo
+Serratia odorifera 1,Imipenem,,1,1,,2,Negativo
+Serratia odorifera 1,Levofloxacino,,,,2,2,Negativo
+Serratia odorifera 1,Meropenem,,,2,,2,Negativo
+Serratia odorifera 1,Piperacilina-Tazobactam,,,2,,2,Negativo
+Serratia odorifera 1,Tigeciclina,,,2,,2,Negativo
+Serratia odorifera 1,Trimetoprim-Sulfametoxazol,,,2,,2,Negativo
+Total Serratia odorifera 1,,9,1,23,3,36,
+Acinetobacter lwoffii/haemolyticus,Amikacina,,,1,,1,Negativo
+Acinetobacter lwoffii/haemolyticus,Ampicilina-Sulbactam,,,1,,1,Negativo
+Acinetobacter lwoffii/haemolyticus,Cefepima,,,1,,1,Negativo
+Acinetobacter lwoffii/haemolyticus,Ceftazidima,,,1,,1,Negativo
+Acinetobacter lwoffii/haemolyticus,Ceftriaxona,,,1,,1,Negativo
+Acinetobacter lwoffii/haemolyticus,Ciprofloxacino,,,1,,1,Negativo
+Acinetobacter lwoffii/haemolyticus,Colistina,,,,1,1,Negativo
+Acinetobacter lwoffii/haemolyticus,Gentamicina,,,1,,1,Negativo
+Acinetobacter lwoffii/haemolyticus,Imipenem,,,1,,1,Negativo
+Acinetobacter lwoffii/haemolyticus,Levofloxacino,,,1,,1,Negativo
+Acinetobacter lwoffii/haemolyticus,Meropenem,,,1,,1,Negativo
+Acinetobacter lwoffii/haemolyticus,Piperacilina-Tazobactam,,,1,,1,Negativo
+Acinetobacter lwoffii/haemolyticus,Trimetoprim-Sulfametoxazol,,,1,,1,Negativo
+Total Acinetobacter lwoffii/haemolyticus,,,,12,1,13,
+Aeromonas salmonicida ssp masoucida,Amikacina,,,1,,1,Negativo
+Aeromonas salmonicida ssp masoucida,Ampicilina,1,,,,1,Negativo
+Aeromonas salmonicida ssp masoucida,Cefazolina,1,,,,1,Negativo
+Aeromonas salmonicida ssp masoucida,Cefepima,,1,,,1,Negativo
+Aeromonas salmonicida ssp masoucida,Cefoxitina,,,1,,1,Negativo
+Aeromonas salmonicida ssp masoucida,Ceftazidima,1,,,,1,Negativo
+Aeromonas salmonicida ssp masoucida,Ceftriaxona,1,,,,1,Negativo
+Aeromonas salmonicida ssp masoucida,Ciprofloxacino,1,,,,1,Negativo
+Aeromonas salmonicida ssp masoucida,Ertapenem,1,,,,1,Negativo
+Aeromonas salmonicida ssp masoucida,Gentamicina,1,,,,1,Negativo
+Aeromonas salmonicida ssp masoucida,Imipenem,,,1,,1,Negativo
+Aeromonas salmonicida ssp masoucida,Levofloxacino,1,,,,1,Negativo
+Aeromonas salmonicida ssp masoucida,Meropenem,,,1,,1,Negativo
+Aeromonas salmonicida ssp masoucida,Piperacilina-Tazobactam,,,1,,1,Negativo
+Aeromonas salmonicida ssp masoucida,Tigeciclina,,,,1,1,Negativo
+Aeromonas salmonicida ssp masoucida,Trimetoprim-Sulfametoxazol,1,,,,1,Negativo
+Total Aeromonas salmonicida ssp masoucida,,9,1,5,1,16,
+Aeromonas salmonicida ssp salmonicida,Amikacina,,,1,,1,Negativo
+Aeromonas salmonicida ssp salmonicida,Ampicilina,1,,,,1,Negativo
+Aeromonas salmonicida ssp salmonicida,Cefazolina,1,,,,1,Negativo
+Aeromonas salmonicida ssp salmonicida,Cefepima,,,1,,1,Negativo
+Aeromonas salmonicida ssp salmonicida,Cefoxitina,1,,,,1,Negativo
+Aeromonas salmonicida ssp salmonicida,Ceftazidima,,,1,,1,Negativo
+Aeromonas salmonicida ssp salmonicida,Ceftriaxona,,,1,,1,Negativo
+Aeromonas salmonicida ssp salmonicida,Ciprofloxacino,,,1,,1,Negativo
+Aeromonas salmonicida ssp salmonicida,Ertapenem,,,1,,1,Negativo
+Aeromonas salmonicida ssp salmonicida,Gentamicina,,,1,,1,Negativo
+Aeromonas salmonicida ssp salmonicida,Imipenem,,,1,,1,Negativo
+Aeromonas salmonicida ssp salmonicida,Levofloxacino,,,,1,1,Negativo
+Aeromonas salmonicida ssp salmonicida,Meropenem,,,1,,1,Negativo
+Aeromonas salmonicida ssp salmonicida,Piperacilina-Tazobactam,,,1,,1,Negativo
+Aeromonas salmonicida ssp salmonicida,Trimetoprim-Sulfametoxazol,,,1,,1,Negativo
+Total Aeromonas salmonicida ssp salmonicida,,3,,11,1,15,
+Hafnia alvei,Amikacina,,,1,,1,Negativo
+Hafnia alvei,Ampicilina,1,,,,1,Negativo
+Hafnia alvei,Ampicilina-Sulbactam,1,,,,1,Negativo
+Hafnia alvei,Cefazolina,1,,,,1,Negativo
+Hafnia alvei,Cefepima,1,,,,1,Negativo
+Hafnia alvei,Cefoxitina,1,,,,1,Negativo
+Hafnia alvei,Ceftazidima,1,,,,1,Negativo
+Hafnia alvei,Ceftriaxona,1,,,,1,Negativo
+Hafnia alvei,Ciprofloxacino,1,,,,1,Negativo
+Hafnia alvei,Colistina,1,,,,1,Negativo
+Hafnia alvei,Ertapenem,1,,,,1,Negativo
+Hafnia alvei,Gentamicina,,,1,,1,Negativo
+Hafnia alvei,Imipenem,,1,,,1,Negativo
+Hafnia alvei,Levofloxacino,1,,,,1,Negativo
+Hafnia alvei,Meropenem,,1,,,1,Negativo
+Hafnia alvei,Piperacilina-Tazobactam,1,,,,1,Negativo
+Hafnia alvei,Tigeciclina,1,,,,1,Negativo
+Hafnia alvei,Trimetoprim-Sulfametoxazol,1,,,,1,Negativo
+Total Hafnia alvei,,14,2,2,,18,
+Pluralibacter gergoviae,Amikacina,,,1,,1,Negativo
+Pluralibacter gergoviae,Ampicilina,1,,,,1,Negativo
+Pluralibacter gergoviae,Ampicilina-Sulbactam,1,,,,1,Negativo
+Pluralibacter gergoviae,Cefazolina,1,,,,1,Negativo
+Pluralibacter gergoviae,Cefepima,,,1,,1,Negativo
+Pluralibacter gergoviae,Cefoxitina,1,,,,1,Negativo
+Pluralibacter gergoviae,Ceftazidima,,,1,,1,Negativo
+Pluralibacter gergoviae,Ceftriaxona,1,,,,1,Negativo
+Pluralibacter gergoviae,Ciprofloxacino,,,1,,1,Negativo
+Pluralibacter gergoviae,Colistina,,,,1,1,Negativo
+Pluralibacter gergoviae,Ertapenem,1,,,,1,Negativo
+Pluralibacter gergoviae,Gentamicina,,,1,,1,Negativo
+Pluralibacter gergoviae,Imipenem,,1,,,1,Negativo
+Pluralibacter gergoviae,Levofloxacino,,,,1,1,Negativo
+Pluralibacter gergoviae,Meropenem,,,1,,1,Negativo
+Pluralibacter gergoviae,Piperacilina-Tazobactam,,,1,,1,Negativo
+Pluralibacter gergoviae,Tigeciclina,,,1,,1,Negativo
+Pluralibacter gergoviae,Trimetoprim-Sulfametoxazol,,,1,,1,Negativo
+Total Pluralibacter gergoviae,,6,1,9,2,18,
+Proteus vulgaris/penneri,Amikacina,,,1,,1,Negativo
+Proteus vulgaris/penneri,Ampicilina,1,,,,1,Negativo
+Proteus vulgaris/penneri,Ampicilina-Sulbactam,,,1,,1,Negativo
+Proteus vulgaris/penneri,Cefazolina,1,,,,1,Negativo
+Proteus vulgaris/penneri,Cefepima,,,1,,1,Negativo
+Proteus vulgaris/penneri,Cefoxitina,,,1,,1,Negativo
+Proteus vulgaris/penneri,Ceftazidima,,,1,,1,Negativo
+Proteus vulgaris/penneri,Ceftriaxona,,,1,,1,Negativo
+Proteus vulgaris/penneri,Ciprofloxacino,,,1,,1,Negativo
+Proteus vulgaris/penneri,Colistina,1,,,,1,Negativo
+Proteus vulgaris/penneri,Ertapenem,1,,,,1,Negativo
+Proteus vulgaris/penneri,Gentamicina,,,1,,1,Negativo
+Proteus vulgaris/penneri,Imipenem,,1,,,1,Negativo
+Proteus vulgaris/penneri,Levofloxacino,,,,1,1,Negativo
+Proteus vulgaris/penneri,Meropenem,1,,,,1,Negativo
+Proteus vulgaris/penneri,Piperacilina-Tazobactam,,,1,,1,Negativo
+Proteus vulgaris/penneri,Tigeciclina,,,,1,1,Negativo
+Proteus vulgaris/penneri,Trimetoprim-Sulfametoxazol,1,,,,1,Negativo
+Total Proteus vulgaris/penneri,,6,1,9,2,18,
+Pseudomonas fluorescens,Amikacina,,,1,,1,Negativo
+Pseudomonas fluorescens,Ampicilina,1,,,,1,Negativo
+Pseudomonas fluorescens,Ampicilina-Sulbactam,1,,,,1,Negativo
+Pseudomonas fluorescens,Cefazolina,1,,,,1,Negativo
+Pseudomonas fluorescens,Cefepima,,,1,,1,Negativo
+Pseudomonas fluorescens,Cefoxitina,1,,,,1,Negativo
+Pseudomonas fluorescens,Ceftazidima,,,1,,1,Negativo
+Pseudomonas fluorescens,Ceftriaxona,,,,1,1,Negativo
+Pseudomonas fluorescens,Ciprofloxacino,,,1,,1,Negativo
+Pseudomonas fluorescens,Colistina,,,,1,1,Negativo
+Pseudomonas fluorescens,Ertapenem,1,,,,1,Negativo
+Pseudomonas fluorescens,Gentamicina,,,1,,1,Negativo
+Pseudomonas fluorescens,Imipenem,,,1,,1,Negativo
+Pseudomonas fluorescens,Levofloxacino,,,1,,1,Negativo
+Pseudomonas fluorescens,Meropenem,,,1,,1,Negativo
+Pseudomonas fluorescens,Piperacilina-Tazobactam,,,1,,1,Negativo
+Pseudomonas fluorescens,Trimetoprim-Sulfametoxazol,,,1,,1,Negativo
+Total Pseudomonas fluorescens,,5,,10,2,17,
+Pseudomonas luteola,Amikacina,,,1,,1,Negativo
+Pseudomonas luteola,Ampicilina,1,,,,1,Negativo
+Pseudomonas luteola,Cefazolina,1,,,,1,Negativo
+Pseudomonas luteola,Cefepima,,,1,,1,Negativo
+Pseudomonas luteola,Cefoxitina,1,,,,1,Negativo
+Pseudomonas luteola,Ceftazidima,,,1,,1,Negativo
+Pseudomonas luteola,Ceftriaxona,,,1,,1,Negativo
+Pseudomonas luteola,Ciprofloxacino,,,1,,1,Negativo
+Pseudomonas luteola,Colistina,,,,1,1,Negativo
+Pseudomonas luteola,Ertapenem,1,,,,1,Negativo
+Pseudomonas luteola,Gentamicina,,,1,,1,Negativo
+Pseudomonas luteola,Imipenem,,,1,,1,Negativo
+Pseudomonas luteola,Levofloxacino,,,1,,1,Negativo
+Pseudomonas luteola,Meropenem,,,1,,1,Negativo
+Pseudomonas luteola,Piperacilina-Tazobactam,,,1,,1,Negativo
+Pseudomonas luteola,Trimetoprim-Sulfametoxazol,,,1,,1,Negativo
+Total Pseudomonas luteola,,4,,11,1,16,
+Pseudomonas mendocina,Amikacina,1,,,,1,Negativo
+Pseudomonas mendocina,Ampicilina,1,,,,1,Negativo
+Pseudomonas mendocina,Cefazolina,1,,,,1,Negativo
+Pseudomonas mendocina,Cefepima,1,,,,1,Negativo
+Pseudomonas mendocina,Cefoxitina,1,,,,1,Negativo
+Pseudomonas mendocina,Ceftazidima,1,,,,1,Negativo
+Pseudomonas mendocina,Ceftriaxona,,,,1,1,Negativo
+Pseudomonas mendocina,Ciprofloxacino,1,,,,1,Negativo
+Pseudomonas mendocina,Colistina,,,,1,1,Negativo
+Pseudomonas mendocina,Ertapenem,1,,,,1,Negativo
+Pseudomonas mendocina,Gentamicina,1,,,,1,Negativo
+Pseudomonas mendocina,Imipenem,1,,,,1,Negativo
+Pseudomonas mendocina,Levofloxacino,1,,,,1,Negativo
+Pseudomonas mendocina,Meropenem,1,,,,1,Negativo
+Pseudomonas mendocina,Piperacilina-Tazobactam,,1,,,1,Negativo
+Pseudomonas mendocina,Tigeciclina,,,,1,1,Negativo
+Pseudomonas mendocina,Trimetoprim-Sulfametoxazol,1,,,,1,Negativo
+Total Pseudomonas mendocina,,13,1,,3,17,
+Pseudomonas spp.,Amikacina,,,1,,1,Negativo
+Pseudomonas spp.,Ampicilina,1,,,,1,Negativo
+Pseudomonas spp.,Cefazolina,1,,,,1,Negativo
+Pseudomonas spp.,Cefepima,,,1,,1,Negativo
+Pseudomonas spp.,Cefoxitina,1,,,,1,Negativo
+Pseudomonas spp.,Ceftazidima,,,1,,1,Negativo
+Pseudomonas spp.,Ceftriaxona,,,1,,1,Negativo
+Pseudomonas spp.,Ciprofloxacino,,,1,,1,Negativo
+Pseudomonas spp.,Colistina,,,,1,1,Negativo
+Pseudomonas spp.,Ertapenem,1,,,,1,Negativo
+Pseudomonas spp.,Gentamicina,,,1,,1,Negativo
+Pseudomonas spp.,Imipenem,,,1,,1,Negativo
+Pseudomonas spp.,Levofloxacino,,,1,,1,Negativo
+Pseudomonas spp.,Meropenem,,,1,,1,Negativo
+Pseudomonas spp.,Piperacilina-Tazobactam,,,1,,1,Negativo
+Pseudomonas spp.,Trimetoprim-Sulfametoxazol,,,1,,1,Negativo
+Total Pseudomonas spp.,,4,,11,1,16,
+Shigella dysenteriae,Amikacina,1,,,,1,Negativo
+Shigella dysenteriae,Ampicilina,,,1,,1,Negativo
+Shigella dysenteriae,Ampicilina-Sulbactam,,,1,,1,Negativo
+Shigella dysenteriae,Cefazolina,1,,,,1,Negativo
+Shigella dysenteriae,Cefepima,,,1,,1,Negativo
+Shigella dysenteriae,Cefoxitina,1,,,,1,Negativo
+Shigella dysenteriae,Ceftazidima,,,1,,1,Negativo
+Shigella dysenteriae,Ceftriaxona,,1,,,1,Negativo
+Shigella dysenteriae,Ciprofloxacino,1,,,,1,Negativo
+Shigella dysenteriae,Colistina,1,,,,1,Negativo
+Shigella dysenteriae,Ertapenem,,,1,,1,Negativo
+Shigella dysenteriae,Gentamicina,1,,,,1,Negativo
+Shigella dysenteriae,Imipenem,,,1,,1,Negativo
+Shigella dysenteriae,Levofloxacino,,,,1,1,Negativo
+Shigella dysenteriae,Meropenem,,,1,,1,Negativo
+Shigella dysenteriae,Piperacilina-Tazobactam,,,1,,1,Negativo
+Shigella dysenteriae,Tigeciclina,,,1,,1,Negativo
+Shigella dysenteriae,Trimetoprim-Sulfametoxazol,,,1,,1,Negativo
+Total Shigella dysenteriae,,6,1,10,1,18,
+Shigella flexneri,Amikacina,1,,,,1,Negativo
+Shigella flexneri,Ampicilina,,1,,,1,Negativo
+Shigella flexneri,Ampicilina-Sulbactam,,,1,,1,Negativo
+Shigella flexneri,Cefazolina,1,,,,1,Negativo
+Shigella flexneri,Cefepima,,1,,,1,Negativo
+Shigella flexneri,Cefoxitina,1,,,,1,Negativo
+Shigella flexneri,Ceftazidima,1,,,,1,Negativo
+Shigella flexneri,Ceftriaxona,,,1,,1,Negativo
+Shigella flexneri,Ciprofloxacino,,,1,,1,Negativo
+Shigella flexneri,Colistina,,,,1,1,Negativo
+Shigella flexneri,Ertapenem,1,,,,1,Negativo
+Shigella flexneri,Gentamicina,1,,,,1,Negativo
+Shigella flexneri,Imipenem,1,,,,1,Negativo
+Shigella flexneri,Levofloxacino,,,,1,1,Negativo
+Shigella flexneri,Meropenem,1,,,,1,Negativo
+Shigella flexneri,Piperacilina-Tazobactam,1,,,,1,Negativo
+Shigella flexneri,Tigeciclina,,,1,,1,Negativo
+Shigella flexneri,Trimetoprim-Sulfametoxazol,,,1,,1,Negativo
+Total Shigella flexneri,,9,2,5,2,18,
+Shigella sonnei,Amikacina,1,,,,1,Negativo
+Shigella sonnei,Ampicilina,,,1,,1,Negativo
+Shigella sonnei,Ampicilina-Sulbactam,,,1,,1,Negativo
+Shigella sonnei,Cefazolina,1,,,,1,Negativo
+Shigella sonnei,Cefepima,,,1,,1,Negativo
+Shigella sonnei,Cefoxitina,1,,,,1,Negativo
+Shigella sonnei,Ceftazidima,,,1,,1,Negativo
+Shigella sonnei,Ceftriaxona,,,1,,1,Negativo
+Shigella sonnei,Ciprofloxacino,,,1,,1,Negativo
+Shigella sonnei,Colistina,,,,1,1,Negativo
+Shigella sonnei,Ertapenem,,,1,,1,Negativo
+Shigella sonnei,Gentamicina,1,,,,1,Negativo
+Shigella sonnei,Imipenem,,,1,,1,Negativo
+Shigella sonnei,Levofloxacino,,,,1,1,Negativo
+Shigella sonnei,Meropenem,,,1,,1,Negativo
+Shigella sonnei,Piperacilina-Tazobactam,,,1,,1,Negativo
+Shigella sonnei,Tigeciclina,,,1,,1,Negativo
+Shigella sonnei,Trimetoprim-Sulfametoxazol,,,1,,1,Negativo
+Total Shigella sonnei,,4,,12,2,18,
+Yersinia intermedia,Amikacina,1,,,,1,Negativo
+Yersinia intermedia,Ampicilina,,,1,,1,Negativo
+Yersinia intermedia,Ampicilina-Sulbactam,,,1,,1,Negativo
+Yersinia intermedia,Cefazolina,1,,,,1,Negativo
+Yersinia intermedia,Cefepima,1,,,,1,Negativo
+Yersinia intermedia,Cefoxitina,1,,,,1,Negativo
+Yersinia intermedia,Ceftazidima,1,,,,1,Negativo
+Yersinia intermedia,Ceftriaxona,1,,,,1,Negativo
+Yersinia intermedia,Ciprofloxacino,1,,,,1,Negativo
+Yersinia intermedia,Colistina,1,,,,1,Negativo
+Yersinia intermedia,Gentamicina,1,,,,1,Negativo
+Yersinia intermedia,Levofloxacino,,,,1,1,Negativo
+Yersinia intermedia,Piperacilina-Tazobactam,,,1,,1,Negativo
+Yersinia intermedia,Tigeciclina,,,1,,1,Negativo
+Yersinia intermedia,Trimetoprim-Sulfametoxazol,,,1,,1,Negativo
+Total Yersinia intermedia,,9,,5,1,15,
+Burkholderia cepacia complejo,Amoxicilina-Clavulanato,1,,,,1,Negativo
+Burkholderia cepacia complejo,Ampicilina,4,,,,4,Negativo
+Burkholderia cepacia complejo,Ampicilina-Sulbactam,3,,,,3,Negativo
+Burkholderia cepacia complejo,Cefazolina,4,,,,4,Negativo
+Burkholderia cepacia complejo,Cefoxitina,4,,,,4,Negativo
+Burkholderia cepacia complejo,Ceftazidima,2,1,1,,4,Negativo
+Burkholderia cepacia complejo,Cefuroxima,1,,,,1,Negativo
+Burkholderia cepacia complejo,Colistina,3,,,,3,Negativo
+Burkholderia cepacia complejo,Fosfomicina c/G6P,3,,,,3,Negativo
+Burkholderia cepacia complejo,Levofloxacino,2,1,1,,4,Negativo
+Burkholderia cepacia complejo,Meropenem,1,,3,,4,Negativo
+Burkholderia cepacia complejo,Nitrofurantoína,1,,,,1,Negativo
+Burkholderia cepacia complejo,Tigeciclina,,,,1,1,Negativo
+Burkholderia cepacia complejo,Trimetoprim-Sulfametoxazol,3,,1,,4,Negativo
+Total Burkholderia cepacia complejo,,32,2,6,1,41,
+Enterococcus casseliflavus/gallinarum,Ampicilina,,,2,,2,Positivo
+Enterococcus casseliflavus/gallinarum,Cefoxitina,2,,,,2,Positivo
+Enterococcus casseliflavus/gallinarum,Ceftarolina,2,,,,2,Positivo
+Enterococcus casseliflavus/gallinarum,Clindamicina,2,,,,2,Positivo
+Enterococcus casseliflavus/gallinarum,Cloranfenicol,,,1,1,2,Positivo
+Enterococcus casseliflavus/gallinarum,Daptomicina,,,2,,2,Positivo
+Enterococcus casseliflavus/gallinarum,Eritromicina,,,1,1,2,Positivo
+Enterococcus casseliflavus/gallinarum,Estreptomicina-Sin,,,2,,2,Positivo
+Enterococcus casseliflavus/gallinarum,Gentamicina,2,,,,2,Positivo
+Enterococcus casseliflavus/gallinarum,Gentamicina-Sin,2,,,,2,Positivo
+Enterococcus casseliflavus/gallinarum,Linezolida,,,2,,2,Positivo
+Enterococcus casseliflavus/gallinarum,Minociclina,1,,1,,2,Positivo
+Enterococcus casseliflavus/gallinarum,Nitrofurantoína,,,2,,2,Positivo
+Enterococcus casseliflavus/gallinarum,Norfloxacino,1,,1,,2,Positivo
+Enterococcus casseliflavus/gallinarum,Penicilina G,,,2,,2,Positivo
+Enterococcus casseliflavus/gallinarum,Teicoplanin,,,2,,2,Positivo
+Enterococcus casseliflavus/gallinarum,Tigeciclina,,,,1,1,Positivo
+Enterococcus casseliflavus/gallinarum,Trimetoprim-Sulfametoxazol,2,,,,2,Positivo
+Enterococcus casseliflavus/gallinarum,Vancomicina,2,,,,2,Positivo
+Total Enterococcus casseliflavus/gallinarum,,16,,18,3,37,
+Enterococcus faecalis,Ampicilina,10,,71,,81,Positivo
+Enterococcus faecalis,Cefoxitina,80,,,,80,Positivo
+Enterococcus faecalis,Ciprofloxacino,39,11,29,,79,Positivo
+Enterococcus faecalis,Clindamicina,80,,,,80,Positivo
+Enterococcus faecalis,Cloranfenicol,7,,44,29,80,Positivo
+Enterococcus faecalis,Daptomicina,,,76,,76,Positivo
+Enterococcus faecalis,Eritromicina,30,14,7,29,80,Positivo
+Enterococcus faecalis,Estreptomicina-Sin,40,,40,,80,Positivo
+Enterococcus faecalis,Gentamicina,80,,,,80,Positivo
+Enterococcus faecalis,Gentamicina-Sin,44,,36,,80,Positivo
+Enterococcus faecalis,Linezolida,4,5,71,,80,Positivo
+Enterococcus faecalis,Minociclina,48,7,25,,80,Positivo
+Enterococcus faecalis,Nitrofurantoína,5,3,72,,80,Positivo
+Enterococcus faecalis,Norfloxacino,37,5,38,,80,Positivo
+Enterococcus faecalis,Penicilina G,19,,62,,81,Positivo
+Enterococcus faecalis,Teicoplanin,10,,71,,81,Positivo
+Enterococcus faecalis,Tigeciclina,,,47,34,81,Positivo
+Enterococcus faecalis,Trimetoprim-Sulfametoxazol,81,,,,81,Positivo
+Enterococcus faecalis,Vancomicina,8,,72,,80,Positivo
+Total Enterococcus faecalis,,622,45,761,92,1520,
+Enterococcus faecium,Ampicilina,8,,3,,11,Positivo
+Enterococcus faecium,Cefoxitina,11,,,,11,Positivo
+Enterococcus faecium,Ceftarolina,11,,,,11,Positivo
+Enterococcus faecium,Ciprofloxacino,6,3,2,,11,Positivo
+Enterococcus faecium,Clindamicina,11,,,,11,Positivo
+Enterococcus faecium,Cloranfenicol,1,,7,3,11,Positivo
+Enterococcus faecium,Daptomicina,,,11,,11,Positivo
+Enterococcus faecium,Eritromicina,6,1,1,3,11,Positivo
+Enterococcus faecium,Estreptomicina-Sin,,,11,,11,Positivo
+Enterococcus faecium,Gentamicina,11,,,,11,Positivo
+Enterococcus faecium,Gentamicina-Sin,4,,7,,11,Positivo
+Enterococcus faecium,Linezolida,,,11,,11,Positivo
+Enterococcus faecium,Minociclina,2,,9,,11,Positivo
+Enterococcus faecium,Nitrofurantoína,9,2,,,11,Positivo
+Enterococcus faecium,Norfloxacino,6,,5,,11,Positivo
+Enterococcus faecium,Penicilina G,8,,3,,11,Positivo
+Enterococcus faecium,Teicoplanin,1,,10,,11,Positivo
+Enterococcus faecium,Trimetoprim-Sulfametoxazol,11,,,,11,Positivo
+Enterococcus faecium,Vancomicina,3,,8,,11,Positivo
+Total Enterococcus faecium,,109,6,88,6,209,
+Staphylococcus aureus,Ampicilina,77,,,,77,Positivo
+Staphylococcus aureus,Cefoxitina,84,,,1,85,Positivo
+Staphylococcus aureus,Ceftarolina,26,18,235,1,280,Positivo
+Staphylococcus aureus,Ciprofloxacino,66,6,204,,276,Positivo
+Staphylococcus aureus,Clindamicina,97,5,172,5,279,Positivo
+Staphylococcus aureus,Cloranfenicol,36,22,216,5,279,Positivo
+Staphylococcus aureus,Daptomicina,,,262,,262,Positivo
+Staphylococcus aureus,Eritromicina,109,5,159,5,278,Positivo
+Staphylococcus aureus,Gentamicina,137,8,132,,277,Positivo
+Staphylococcus aureus,Linezolida,12,,267,,279,Positivo
+Staphylococcus aureus,Minociclina,12,10,252,5,279,Positivo
+Staphylococcus aureus,Nitrofurantoína,15,7,248,8,278,Positivo
+Staphylococcus aureus,Norfloxacino,62,14,195,8,279,Positivo
+Staphylococcus aureus,Oxacilina,84,,193,,277,Positivo
+Staphylococcus aureus,Penicilina G,263,,,15,278,Positivo
+Staphylococcus aureus,Rifampicina,37,1,240,,278,Positivo
+Staphylococcus aureus,Teicoplanin,18,3,254,,275,Positivo
+Staphylococcus aureus,Tigeciclina,,,250,5,255,Positivo
+Staphylococcus aureus,Trimetoprim-Sulfametoxazol,80,,197,,277,Positivo
+Staphylococcus aureus,Vancomicina,15,4,260,,279,Positivo
+Total Staphylococcus aureus,,1230,103,3736,58,5127,
+Staphylococcus auricularis,Ciprofloxacino,,,1,,1,Positivo
+Staphylococcus auricularis,Clindamicina,,,1,,1,Positivo
+Staphylococcus auricularis,Cloranfenicol,,,1,,1,Positivo
+Staphylococcus auricularis,Daptomicina,,,1,,1,Positivo
+Staphylococcus auricularis,Eritromicina,,,1,,1,Positivo
+Staphylococcus auricularis,Gentamicina,1,,,,1,Positivo
+Staphylococcus auricularis,Linezolida,,,1,,1,Positivo
+Staphylococcus auricularis,Minociclina,,,1,,1,Positivo
+Staphylococcus auricularis,Nitrofurantoína,,,1,,1,Positivo
+Staphylococcus auricularis,Norfloxacino,,,1,,1,Positivo
+Staphylococcus auricularis,Oxacilina,,,1,,1,Positivo
+Staphylococcus auricularis,Rifampicina,,,1,,1,Positivo
+Staphylococcus auricularis,Teicoplanin,,,1,,1,Positivo
+Staphylococcus auricularis,Trimetoprim-Sulfametoxazol,,,1,,1,Positivo
+Staphylococcus auricularis,Vancomicina,,,1,,1,Positivo
+Total Staphylococcus auricularis,,1,,14,,15,
+Staphylococcus capitis,Cefoxitina,1,,,,1,Positivo
+Staphylococcus capitis,Ciprofloxacino,1,,1,,2,Positivo
+Staphylococcus capitis,Clindamicina,1,,1,,2,Positivo
+Staphylococcus capitis,Cloranfenicol,,,2,,2,Positivo
+Staphylococcus capitis,Daptomicina,,,2,,2,Positivo
+Staphylococcus capitis,Eritromicina,1,,1,,2,Positivo
+Staphylococcus capitis,Gentamicina,1,,1,,2,Positivo
+Staphylococcus capitis,Linezolida,1,,1,,2,Positivo
+Staphylococcus capitis,Minociclina,,,2,,2,Positivo
+Staphylococcus capitis,Nitrofurantoína,,,2,,2,Positivo
+Staphylococcus capitis,Norfloxacino,1,,1,,2,Positivo
+Staphylococcus capitis,Oxacilina,1,,1,,2,Positivo
+Staphylococcus capitis,Rifampicina,1,,1,,2,Positivo
+Staphylococcus capitis,Teicoplanin,,,2,,2,Positivo
+Staphylococcus capitis,Trimetoprim-Sulfametoxazol,,,2,,2,Positivo
+Staphylococcus capitis,Vancomicina,,,2,,2,Positivo
+Total Staphylococcus capitis,,9,,22,,31,
+Staphylococcus caprae,Ciprofloxacino,,,1,,1,Positivo
+Staphylococcus caprae,Clindamicina,,,1,,1,Positivo
+Staphylococcus caprae,Cloranfenicol,,,1,,1,Positivo
+Staphylococcus caprae,Daptomicina,,,1,,1,Positivo
+Staphylococcus caprae,Eritromicina,,,1,,1,Positivo
+Staphylococcus caprae,Gentamicina,,,1,,1,Positivo
+Staphylococcus caprae,Linezolida,,,1,,1,Positivo
+Staphylococcus caprae,Minociclina,,,1,,1,Positivo
+Staphylococcus caprae,Nitrofurantoína,,,,1,1,Positivo
+Staphylococcus caprae,Norfloxacino,,,,1,1,Positivo
+Staphylococcus caprae,Oxacilina,,,1,,1,Positivo
+Staphylococcus caprae,Rifampicina,,,1,,1,Positivo
+Staphylococcus caprae,Teicoplanin,,,1,,1,Positivo
+Staphylococcus caprae,Trimetoprim-Sulfametoxazol,,,1,,1,Positivo
+Staphylococcus caprae,Vancomicina,,,1,,1,Positivo
+Total Staphylococcus caprae,,,,13,2,15,
+Staphylococcus coagulasa-negativo,Cefoxitina,1,,,,1,Positivo
+Staphylococcus coagulasa-negativo,Ciprofloxacino,,,1,,1,Positivo
+Staphylococcus coagulasa-negativo,Clindamicina,1,,,,1,Positivo
+Staphylococcus coagulasa-negativo,Cloranfenicol,1,,,,1,Positivo
+Staphylococcus coagulasa-negativo,Eritromicina,1,,,,1,Positivo
+Staphylococcus coagulasa-negativo,Gentamicina,,,1,,1,Positivo
+Staphylococcus coagulasa-negativo,Linezolida,1,,,,1,Positivo
+Staphylococcus coagulasa-negativo,Minociclina,,1,,,1,Positivo
+Staphylococcus coagulasa-negativo,Nitrofurantoína,1,,,,1,Positivo
+Staphylococcus coagulasa-negativo,Norfloxacino,,,1,,1,Positivo
+Staphylococcus coagulasa-negativo,Oxacilina,1,,,,1,Positivo
+Staphylococcus coagulasa-negativo,Rifampicina,,1,,,1,Positivo
+Staphylococcus coagulasa-negativo,Teicoplanin,1,,,,1,Positivo
+Staphylococcus coagulasa-negativo,Trimetoprim-Sulfametoxazol,,,1,,1,Positivo
+Staphylococcus coagulasa-negativo,Vancomicina,1,,,,1,Positivo
+Total Staphylococcus coagulasa-negativo,,9,2,4,,15,
+Staphylococcus epidermidis,Cefoxitina,170,,,1,171,Positivo
+Staphylococcus epidermidis,Ceftarolina,,,,1,1,Positivo
+Staphylococcus epidermidis,Ciprofloxacino,101,9,99,,209,Positivo
+Staphylococcus epidermidis,Clindamicina,120,5,80,4,209,Positivo
+Staphylococcus epidermidis,Cloranfenicol,29,19,150,3,201,Positivo
+Staphylococcus epidermidis,Daptomicina,,,197,,197,Positivo
+Staphylococcus epidermidis,Eritromicina,133,11,62,3,209,Positivo
+Staphylococcus epidermidis,Gentamicina,104,12,94,,210,Positivo
+Staphylococcus epidermidis,Linezolida,17,,192,,209,Positivo
+Staphylococcus epidermidis,Minociclina,7,7,192,3,209,Positivo
+Staphylococcus epidermidis,Nitrofurantoína,29,4,169,7,209,Positivo
+Staphylococcus epidermidis,Norfloxacino,95,12,94,7,208,Positivo
+Staphylococcus epidermidis,Oxacilina,177,,33,,210,Positivo
+Staphylococcus epidermidis,Penicilina G,187,,,10,197,Positivo
+Staphylococcus epidermidis,Rifampicina,39,2,168,,209,Positivo
+Staphylococcus epidermidis,Teicoplanin,11,3,180,,194,Positivo
+Staphylococcus epidermidis,Tigeciclina,,,,3,3,Positivo
+Staphylococcus epidermidis,Trimetoprim-Sulfametoxazol,149,,57,,206,Positivo
+Staphylococcus epidermidis,Vancomicina,6,2,200,,208,Positivo
+Total Staphylococcus epidermidis,,1374,86,1967,42,3469,
+Staphylococcus gallinarum,Cefoxitina,1,,,,1,Positivo
+Staphylococcus gallinarum,Ciprofloxacino,,,1,,1,Positivo
+Staphylococcus gallinarum,Clindamicina,,,1,,1,Positivo
+Staphylococcus gallinarum,Cloranfenicol,,,1,,1,Positivo
+Staphylococcus gallinarum,Daptomicina,,,1,,1,Positivo
+Staphylococcus gallinarum,Eritromicina,1,,,,1,Positivo
+Staphylococcus gallinarum,Gentamicina,1,,,,1,Positivo
+Staphylococcus gallinarum,Linezolida,,,1,,1,Positivo
+Staphylococcus gallinarum,Minociclina,,1,,,1,Positivo
+Staphylococcus gallinarum,Nitrofurantoína,,,1,,1,Positivo
+Staphylococcus gallinarum,Norfloxacino,,,1,,1,Positivo
+Staphylococcus gallinarum,Oxacilina,1,,,,1,Positivo
+Staphylococcus gallinarum,Rifampicina,,,1,,1,Positivo
+Staphylococcus gallinarum,Teicoplanin,,,1,,1,Positivo
+Staphylococcus gallinarum,Trimetoprim-Sulfametoxazol,,,1,,1,Positivo
+Staphylococcus gallinarum,Vancomicina,,,1,,1,Positivo
+Total Staphylococcus gallinarum,,4,1,11,,16,
+Staphylococcus haemolyticus,Cefoxitina,69,,,,69,Positivo
+Staphylococcus haemolyticus,Ciprofloxacino,49,7,18,,74,Positivo
+Staphylococcus haemolyticus,Clindamicina,54,2,14,4,74,Positivo
+Staphylococcus haemolyticus,Cloranfenicol,9,1,61,3,74,Positivo
+Staphylococcus haemolyticus,Daptomicina,,,72,,72,Positivo
+Staphylococcus haemolyticus,Eritromicina,62,1,8,3,74,Positivo
+Staphylococcus haemolyticus,Gentamicina,61,1,12,,74,Positivo
+Staphylococcus haemolyticus,Linezolida,2,,72,,74,Positivo
+Staphylococcus haemolyticus,Minociclina,,4,67,3,74,Positivo
+Staphylococcus haemolyticus,Nitrofurantoína,2,,71,1,74,Positivo
+Staphylococcus haemolyticus,Norfloxacino,54,2,16,1,73,Positivo
+Staphylococcus haemolyticus,Oxacilina,69,,5,,74,Positivo
+Staphylococcus haemolyticus,Rifampicina,23,,50,,73,Positivo
+Staphylococcus haemolyticus,Teicoplanin,7,5,63,,75,Positivo
+Staphylococcus haemolyticus,Tigeciclina,,,,3,3,Positivo
+Staphylococcus haemolyticus,Trimetoprim-Sulfametoxazol,56,,18,,74,Positivo
+Staphylococcus haemolyticus,Vancomicina,5,,68,,73,Positivo
+Total Staphylococcus haemolyticus,,522,23,615,18,1178,
+Staphylococcus hominis,Cefoxitina,21,,,,21,Positivo
+Staphylococcus hominis,Ciprofloxacino,16,2,10,,28,Positivo
+Staphylococcus hominis,Clindamicina,15,,12,1,28,Positivo
+Staphylococcus hominis,Cloranfenicol,4,1,22,1,28,Positivo
+Staphylococcus hominis,Daptomicina,,,26,,26,Positivo
+Staphylococcus hominis,Eritromicina,22,,5,1,28,Positivo
+Staphylococcus hominis,Gentamicina,8,3,16,,27,Positivo
+Staphylococcus hominis,Linezolida,2,,26,,28,Positivo
+Staphylococcus hominis,Minociclina,,,27,1,28,Positivo
+Staphylococcus hominis,Nitrofurantoína,,,27,1,28,Positivo
+Staphylococcus hominis,Norfloxacino,14,1,11,1,27,Positivo
+Staphylococcus hominis,Oxacilina,21,,7,,28,Positivo
+Staphylococcus hominis,Rifampicina,5,,23,,28,Positivo
+Staphylococcus hominis,Teicoplanin,1,,25,,26,Positivo
+Staphylococcus hominis,Tigeciclina,,,,1,1,Positivo
+Staphylococcus hominis,Trimetoprim-Sulfametoxazol,20,,8,,28,Positivo
+Staphylococcus hominis,Vancomicina,1,,27,,28,Positivo
+Total Staphylococcus hominis,,150,7,272,7,436,
+Staphylococcus intermedius,Cefoxitina,10,,,,10,Positivo
+Staphylococcus intermedius,Ciprofloxacino,8,,2,,10,Positivo
+Staphylococcus intermedius,Clindamicina,8,,,2,10,Positivo
+Staphylococcus intermedius,Cloranfenicol,1,,7,2,10,Positivo
+Staphylococcus intermedius,Daptomicina,,,10,,10,Positivo
+Staphylococcus intermedius,Eritromicina,8,,,2,10,Positivo
+Staphylococcus intermedius,Gentamicina,10,,,,10,Positivo
+Staphylococcus intermedius,Linezolida,,,10,,10,Positivo
+Staphylococcus intermedius,Minociclina,,,8,2,10,Positivo
+Staphylococcus intermedius,Nitrofurantoína,,2,8,,10,Positivo
+Staphylococcus intermedius,Norfloxacino,7,1,2,,10,Positivo
+Staphylococcus intermedius,Oxacilina,10,,,,10,Positivo
+Staphylococcus intermedius,Rifampicina,2,,8,,10,Positivo
+Staphylococcus intermedius,Teicoplanin,1,,9,,10,Positivo
+Staphylococcus intermedius,Tigeciclina,,,,2,2,Positivo
+Staphylococcus intermedius,Trimetoprim-Sulfametoxazol,7,,3,,10,Positivo
+Staphylococcus intermedius,Vancomicina,,,10,,10,Positivo
+Total Staphylococcus intermedius,,72,3,77,10,162,
+Staphylococcus lentus,Cefoxitina,1,,,,1,Positivo
+Staphylococcus lentus,Ciprofloxacino,1,,,,1,Positivo
+Staphylococcus lentus,Clindamicina,1,,,,1,Positivo
+Staphylococcus lentus,Cloranfenicol,,,1,,1,Positivo
+Staphylococcus lentus,Daptomicina,,,1,,1,Positivo
+Staphylococcus lentus,Eritromicina,1,,,,1,Positivo
+Staphylococcus lentus,Gentamicina,1,,,,1,Positivo
+Staphylococcus lentus,Linezolida,,,1,,1,Positivo
+Staphylococcus lentus,Minociclina,,,1,,1,Positivo
+Staphylococcus lentus,Nitrofurantoína,,,1,,1,Positivo
+Staphylococcus lentus,Norfloxacino,1,,,,1,Positivo
+Staphylococcus lentus,Oxacilina,1,,,,1,Positivo
+Staphylococcus lentus,Rifampicina,,,1,,1,Positivo
+Staphylococcus lentus,Teicoplanin,,,1,,1,Positivo
+Staphylococcus lentus,Trimetoprim-Sulfametoxazol,,,1,,1,Positivo
+Staphylococcus lentus,Vancomicina,,,1,,1,Positivo
+Total Staphylococcus lentus,,7,,9,,16,
+Staphylococcus lugdunensis,Cefoxitina,1,,,,1,Positivo
+Staphylococcus lugdunensis,Ciprofloxacino,1,,,,1,Positivo
+Staphylococcus lugdunensis,Clindamicina,1,,,,1,Positivo
+Staphylococcus lugdunensis,Daptomicina,,,1,,1,Positivo
+Staphylococcus lugdunensis,Eritromicina,1,,,,1,Positivo
+Staphylococcus lugdunensis,Gentamicina,1,,,,1,Positivo
+Staphylococcus lugdunensis,Linezolida,,,1,,1,Positivo
+Staphylococcus lugdunensis,Minociclina,,,1,,1,Positivo
+Staphylococcus lugdunensis,Nitrofurantoína,,,1,,1,Positivo
+Staphylococcus lugdunensis,Norfloxacino,1,,,,1,Positivo
+Staphylococcus lugdunensis,Oxacilina,1,,,,1,Positivo
+Staphylococcus lugdunensis,Rifampicina,,,1,,1,Positivo
+Staphylococcus lugdunensis,Trimetoprim-Sulfametoxazol,1,,,,1,Positivo
+Staphylococcus lugdunensis,Vancomicina,,,1,,1,Positivo
+Total Staphylococcus lugdunensis,,8,,6,,14,
+Staphylococcus pasteuri,Ciprofloxacino,,,2,,2,Positivo
+Staphylococcus pasteuri,Clindamicina,,,2,,2,Positivo
+Staphylococcus pasteuri,Cloranfenicol,,,2,,2,Positivo
+Staphylococcus pasteuri,Daptomicina,,,2,,2,Positivo
+Staphylococcus pasteuri,Eritromicina,2,,,,2,Positivo
+Staphylococcus pasteuri,Gentamicina,,,2,,2,Positivo
+Staphylococcus pasteuri,Linezolida,,,2,,2,Positivo
+Staphylococcus pasteuri,Minociclina,,,2,,2,Positivo
+Staphylococcus pasteuri,Nitrofurantoína,,,2,,2,Positivo
+Staphylococcus pasteuri,Norfloxacino,,,2,,2,Positivo
+Staphylococcus pasteuri,Oxacilina,,,2,,2,Positivo
+Staphylococcus pasteuri,Rifampicina,,,2,,2,Positivo
+Staphylococcus pasteuri,Teicoplanin,,,2,,2,Positivo
+Staphylococcus pasteuri,Trimetoprim-Sulfametoxazol,,,2,,2,Positivo
+Staphylococcus pasteuri,Vancomicina,,,2,,2,Positivo
+Total Staphylococcus pasteuri,,2,,28,,30,
+Staphylococcus saprophyticus,Cefoxitina,8,,,,8,Positivo
+Staphylococcus saprophyticus,Ciprofloxacino,5,,4,,9,Positivo
+Staphylococcus saprophyticus,Clindamicina,4,,4,1,9,Positivo
+Staphylococcus saprophyticus,Cloranfenicol,2,1,5,1,9,Positivo
+Staphylococcus saprophyticus,Daptomicina,,,9,,9,Positivo
+Staphylococcus saprophyticus,Eritromicina,4,,4,1,9,Positivo
+Staphylococcus saprophyticus,Gentamicina,3,1,5,,9,Positivo
+Staphylococcus saprophyticus,Linezolida,1,,8,,9,Positivo
+Staphylococcus saprophyticus,Minociclina,,,8,1,9,Positivo
+Staphylococcus saprophyticus,Nitrofurantoína,,,9,,9,Positivo
+Staphylococcus saprophyticus,Norfloxacino,5,,4,,9,Positivo
+Staphylococcus saprophyticus,Oxacilina,8,,1,,9,Positivo
+Staphylococcus saprophyticus,Rifampicina,4,,5,,9,Positivo
+Staphylococcus saprophyticus,Teicoplanin,1,,8,,9,Positivo
+Staphylococcus saprophyticus,Tigeciclina,,,,1,1,Positivo
+Staphylococcus saprophyticus,Trimetoprim-Sulfametoxazol,3,,6,,9,Positivo
+Staphylococcus saprophyticus,Vancomicina,,,9,,9,Positivo
+Total Staphylococcus saprophyticus,,48,2,89,5,144,
+Staphylococcus schleiferi,Cefoxitina,3,,,,3,Positivo
+Staphylococcus schleiferi,Ciprofloxacino,2,,1,,3,Positivo
+Staphylococcus schleiferi,Clindamicina,1,,1,1,3,Positivo
+Staphylococcus schleiferi,Cloranfenicol,,,2,1,3,Positivo
+Staphylococcus schleiferi,Daptomicina,,,2,,2,Positivo
+Staphylococcus schleiferi,Eritromicina,1,,1,1,3,Positivo
+Staphylococcus schleiferi,Gentamicina,2,,1,,3,Positivo
+Staphylococcus schleiferi,Linezolida,1,,2,,3,Positivo
+Staphylococcus schleiferi,Minociclina,,,2,1,3,Positivo
+Staphylococcus schleiferi,Nitrofurantoína,,,3,,3,Positivo
+Staphylococcus schleiferi,Norfloxacino,1,1,1,,3,Positivo
+Staphylococcus schleiferi,Oxacilina,3,,,,3,Positivo
+Staphylococcus schleiferi,Rifampicina,1,,2,,3,Positivo
+Staphylococcus schleiferi,Teicoplanin,1,,2,,3,Positivo
+Staphylococcus schleiferi,Tigeciclina,,,,1,1,Positivo
+Staphylococcus schleiferi,Trimetoprim-Sulfametoxazol,3,,,,3,Positivo
+Staphylococcus schleiferi,Vancomicina,1,,2,,3,Positivo
+Total Staphylococcus schleiferi,,20,1,22,5,48,
+Staphylococcus sciuri,Cefoxitina,6,,,,6,Positivo
+Staphylococcus sciuri,Ciprofloxacino,3,,3,,6,Positivo
+Staphylococcus sciuri,Clindamicina,4,,,2,6,Positivo
+Staphylococcus sciuri,Cloranfenicol,,,4,2,6,Positivo
+Staphylococcus sciuri,Daptomicina,,,4,,4,Positivo
+Staphylococcus sciuri,Eritromicina,4,,,2,6,Positivo
+Staphylococcus sciuri,Gentamicina,6,,,,6,Positivo
+Staphylococcus sciuri,Linezolida,1,,5,,6,Positivo
+Staphylococcus sciuri,Minociclina,2,1,1,2,6,Positivo
+Staphylococcus sciuri,Nitrofurantoína,1,2,3,,6,Positivo
+Staphylococcus sciuri,Norfloxacino,3,,3,,6,Positivo
+Staphylococcus sciuri,Oxacilina,6,,,,6,Positivo
+Staphylococcus sciuri,Rifampicina,3,,3,,6,Positivo
+Staphylococcus sciuri,Teicoplanin,3,1,2,,6,Positivo
+Staphylococcus sciuri,Tigeciclina,,,,2,2,Positivo
+Staphylococcus sciuri,Trimetoprim-Sulfametoxazol,4,,2,,6,Positivo
+Staphylococcus sciuri,Vancomicina,1,,5,,6,Positivo
+Total Staphylococcus sciuri,,47,4,35,10,96,
+Staphylococcus spp.,Cefoxitina,3,,,,3,Positivo
+Staphylococcus spp.,Ciprofloxacino,1,,2,,3,Positivo
+Staphylococcus spp.,Clindamicina,1,,2,,3,Positivo
+Staphylococcus spp.,Cloranfenicol,,1,2,,3,Positivo
+Staphylococcus spp.,Daptomicina,,,2,,2,Positivo
+Staphylococcus spp.,Eritromicina,1,1,1,,3,Positivo
+Staphylococcus spp.,Gentamicina,,,3,,3,Positivo
+Staphylococcus spp.,Linezolida,,,3,,3,Positivo
+Staphylococcus spp.,Minociclina,1,,2,,3,Positivo
+Staphylococcus spp.,Nitrofurantoína,,1,2,,3,Positivo
+Staphylococcus spp.,Norfloxacino,1,,2,,3,Positivo
+Staphylococcus spp.,Oxacilina,3,,,,3,Positivo
+Staphylococcus spp.,Rifampicina,1,,2,,3,Positivo
+Staphylococcus spp.,Teicoplanin,,,3,,3,Positivo
+Staphylococcus spp.,Trimetoprim-Sulfametoxazol,1,,2,,3,Positivo
+Staphylococcus spp.,Vancomicina,,,3,,3,Positivo
+Total Staphylococcus spp.,,13,3,31,,47,
+Staphylococcus xylosus,Cefoxitina,1,,,,1,Positivo
+Staphylococcus xylosus,Ciprofloxacino,,,1,,1,Positivo
+Staphylococcus xylosus,Clindamicina,,,1,,1,Positivo
+Staphylococcus xylosus,Cloranfenicol,,,1,,1,Positivo
+Staphylococcus xylosus,Daptomicina,,,1,,1,Positivo
+Staphylococcus xylosus,Eritromicina,,,1,,1,Positivo
+Staphylococcus xylosus,Gentamicina,,,1,,1,Positivo
+Staphylococcus xylosus,Linezolida,,,1,,1,Positivo
+Staphylococcus xylosus,Minociclina,,,1,,1,Positivo
+Staphylococcus xylosus,Nitrofurantoína,,,1,,1,Positivo
+Staphylococcus xylosus,Norfloxacino,,,1,,1,Positivo
+Staphylococcus xylosus,Oxacilina,1,,,,1,Positivo
+Staphylococcus xylosus,Rifampicina,,,1,,1,Positivo
+Staphylococcus xylosus,Teicoplanin,,,1,,1,Positivo
+Staphylococcus xylosus,Trimetoprim-Sulfametoxazol,,,1,,1,Positivo
+Staphylococcus xylosus,Vancomicina,,,1,,1,Positivo
+Total Staphylococcus xylosus,,2,,14,,16,
+Streptococcus agalactiae (Strep. grupo B),Amoxicilina,,,4,,4,Positivo
+Streptococcus agalactiae (Strep. grupo B),Cefepima,,,3,,3,Positivo
+Streptococcus agalactiae (Strep. grupo B),Cefotaximo,,,4,,4,Positivo
+Streptococcus agalactiae (Strep. grupo B),Clindamicina,1,,3,2,6,Positivo
+Streptococcus agalactiae (Strep. grupo B),Cloranfenicol,,,4,2,6,Positivo
+Streptococcus agalactiae (Strep. grupo B),Eritromicina,3,,1,2,6,Positivo
+Streptococcus agalactiae (Strep. grupo B),Levofloxacino,1,,5,,6,Positivo
+Streptococcus agalactiae (Strep. grupo B),Linezolida,,,6,,6,Positivo
+Streptococcus agalactiae (Strep. grupo B),Meropenem,,,6,,6,Positivo
+Streptococcus agalactiae (Strep. grupo B),Penicilina G,,,4,,4,Positivo
+Streptococcus agalactiae (Strep. grupo B),Tetraciclina,3,,3,,6,Positivo
+Streptococcus agalactiae (Strep. grupo B),Vancomicina,,,6,,6,Positivo
+Total Streptococcus agalactiae (Strep. grupo B),,8,,49,6,63,
+Streptococcus cristatus,Amoxicilina,,,1,,1,Positivo
+Streptococcus cristatus,Cefepima,1,,,,1,Positivo
+Streptococcus cristatus,Cefotaximo,,,1,,1,Positivo
+Streptococcus cristatus,Clindamicina,1,,,,1,Positivo
+Streptococcus cristatus,Cloranfenicol,,,1,,1,Positivo
+Streptococcus cristatus,Levofloxacino,,,1,,1,Positivo
+Streptococcus cristatus,Linezolida,,,1,,1,Positivo
+Streptococcus cristatus,Meropenem,,,1,,1,Positivo
+Streptococcus cristatus,Penicilina G,,,1,,1,Positivo
+Streptococcus cristatus,Tetraciclina,1,,,,1,Positivo
+Total Streptococcus cristatus,,3,,7,,10,
+Streptococcus dysgalactiae ssp equisimilis,Amoxicilina,,,1,,1,Positivo
+Streptococcus dysgalactiae ssp equisimilis,Cefepima,,,1,,1,Positivo
+Streptococcus dysgalactiae ssp equisimilis,Cefotaximo,,,1,,1,Positivo
+Streptococcus dysgalactiae ssp equisimilis,Clindamicina,,,1,,1,Positivo
+Streptococcus dysgalactiae ssp equisimilis,Cloranfenicol,,,1,,1,Positivo
+Streptococcus dysgalactiae ssp equisimilis,Eritromicina,,,1,,1,Positivo
+Streptococcus dysgalactiae ssp equisimilis,Levofloxacino,,,1,,1,Positivo
+Streptococcus dysgalactiae ssp equisimilis,Linezolida,,,1,,1,Positivo
+Streptococcus dysgalactiae ssp equisimilis,Meropenem,,,1,,1,Positivo
+Streptococcus dysgalactiae ssp equisimilis,Penicilina G,,,1,,1,Positivo
+Streptococcus dysgalactiae ssp equisimilis,Tetraciclina,1,,,,1,Positivo
+Streptococcus dysgalactiae ssp equisimilis,Vancomicina,,,1,,1,Positivo
+Total Streptococcus dysgalactiae ssp equisimilis,,1,,11,,12,
+Streptococcus gallolyticus ssp pasteurianus/infantarius,Amoxicilina,,,1,,1,Positivo
+Streptococcus gallolyticus ssp pasteurianus/infantarius,Cefepima,,,1,,1,Positivo
+Streptococcus gallolyticus ssp pasteurianus/infantarius,Cefotaximo,,,1,,1,Positivo
+Streptococcus gallolyticus ssp pasteurianus/infantarius,Clindamicina,1,,,,1,Positivo
+Streptococcus gallolyticus ssp pasteurianus/infantarius,Cloranfenicol,,,1,,1,Positivo
+Streptococcus gallolyticus ssp pasteurianus/infantarius,Eritromicina,1,,,,1,Positivo
+Streptococcus gallolyticus ssp pasteurianus/infantarius,Levofloxacino,,,1,,1,Positivo
+Streptococcus gallolyticus ssp pasteurianus/infantarius,Linezolida,,,1,,1,Positivo
+Streptococcus gallolyticus ssp pasteurianus/infantarius,Meropenem,,,1,,1,Positivo
+Streptococcus gallolyticus ssp pasteurianus/infantarius,Penicilina G,,,1,,1,Positivo
+Streptococcus gallolyticus ssp pasteurianus/infantarius,Tetraciclina,1,,,,1,Positivo
+Streptococcus gallolyticus ssp pasteurianus/infantarius,Vancomicina,,,1,,1,Positivo
+Total Streptococcus gallolyticus ssp pasteurianus/infantarius,,3,,9,,12,
+Streptococcus grupo A (Strep. pyogenes),Amoxicilina,,,1,,1,Positivo
+Streptococcus grupo A (Strep. pyogenes),Cefepima,,,1,,1,Positivo
+Streptococcus grupo A (Strep. pyogenes),Cefotaximo,,,1,,1,Positivo
+Streptococcus grupo A (Strep. pyogenes),Clindamicina,,,1,,1,Positivo
+Streptococcus grupo A (Strep. pyogenes),Cloranfenicol,,,1,,1,Positivo
+Streptococcus grupo A (Strep. pyogenes),Eritromicina,,,1,,1,Positivo
+Streptococcus grupo A (Strep. pyogenes),Levofloxacino,,,1,,1,Positivo
+Streptococcus grupo A (Strep. pyogenes),Linezolida,,,1,,1,Positivo
+Streptococcus grupo A (Strep. pyogenes),Meropenem,,,1,,1,Positivo
+Streptococcus grupo A (Strep. pyogenes),Penicilina G,,,1,,1,Positivo
+Streptococcus grupo A (Strep. pyogenes),Tetraciclina,,,1,,1,Positivo
+Streptococcus grupo A (Strep. pyogenes),Vancomicina,,,1,,1,Positivo
+Total Streptococcus grupo A (Strep. pyogenes),,,,12,,12,
+Streptococcus pyogenes (Strep. grupo A),Amoxicilina,,,2,,2,Positivo
+Streptococcus pyogenes (Strep. grupo A),Cefepima,,,2,,2,Positivo
+Streptococcus pyogenes (Strep. grupo A),Cefotaximo,,,2,,2,Positivo
+Streptococcus pyogenes (Strep. grupo A),Clindamicina,1,,1,,2,Positivo
+Streptococcus pyogenes (Strep. grupo A),Cloranfenicol,,,2,,2,Positivo
+Streptococcus pyogenes (Strep. grupo A),Eritromicina,1,,1,,2,Positivo
+Streptococcus pyogenes (Strep. grupo A),Levofloxacino,,1,1,,2,Positivo
+Streptococcus pyogenes (Strep. grupo A),Linezolida,,,2,,2,Positivo
+Streptococcus pyogenes (Strep. grupo A),Meropenem,,,2,,2,Positivo
+Streptococcus pyogenes (Strep. grupo A),Penicilina G,,,2,,2,Positivo
+Streptococcus pyogenes (Strep. grupo A),Tetraciclina,1,,1,,2,Positivo
+Streptococcus pyogenes (Strep. grupo A),Vancomicina,,,2,,2,Positivo
+Total Streptococcus pyogenes (Strep. grupo A),,3,1,20,,24,
+Streptococcus sanguinis,Amoxicilina,,2,,,2,Positivo
+Streptococcus sanguinis,Cefepima,,,2,,2,Positivo
+Streptococcus sanguinis,Cefotaximo,,,2,,2,Positivo
+Streptococcus sanguinis,Clindamicina,2,,,,2,Positivo
+Streptococcus sanguinis,Cloranfenicol,,,2,,2,Positivo
+Streptococcus sanguinis,Eritromicina,2,,,,2,Positivo
+Streptococcus sanguinis,Levofloxacino,2,,,,2,Positivo
+Streptococcus sanguinis,Linezolida,,,2,,2,Positivo
+Streptococcus sanguinis,Penicilina G,,2,,,2,Positivo
+Streptococcus sanguinis,Tetraciclina,2,,,,2,Positivo
+Streptococcus sanguinis,Vancomicina,,,2,,2,Positivo
+Total Streptococcus sanguinis,,8,4,10,,22,
+Streptococcus sobrinus,Amoxicilina,1,,,,1,Positivo
+Streptococcus sobrinus,Cefepima,1,,,,1,Positivo
+Streptococcus sobrinus,Cefotaximo,1,,,,1,Positivo
+Streptococcus sobrinus,Clindamicina,1,,,,1,Positivo
+Streptococcus sobrinus,Cloranfenicol,,1,,,1,Positivo
+Streptococcus sobrinus,Eritromicina,1,,,,1,Positivo
+Streptococcus sobrinus,Levofloxacino,1,,,,1,Positivo
+Streptococcus sobrinus,Linezolida,,,1,,1,Positivo
+Streptococcus sobrinus,Penicilina G,1,,,,1,Positivo
+Streptococcus sobrinus,Tetraciclina,1,,,,1,Positivo
+Streptococcus sobrinus,Vancomicina,,,1,,1,Positivo
+Total Streptococcus sobrinus,,8,1,2,,11,
+Total general,,26984,2472,34449,4421,68326,
